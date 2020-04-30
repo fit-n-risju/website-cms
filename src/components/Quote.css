@@ -1,0 +1,26 @@
+.quote {
+    background-color: #22223B;
+    color: white;
+  }
+  
+  .quote-beige {
+    background-color: #D0B8AC;
+    color: #22223B;
+    text-align: center;
+  }
+  
+  .quote h3 {
+    max-width: 700px;
+    margin: auto;
+    padding: 40px 0;
+  }
+  
+  .quote-beige h3 {
+    max-width: 700px;
+    margin: auto;
+    padding: 40px 0 20px 0;
+  }
+  
+  .quote-beige a {
+    margin-bottom: 40px;
+  }

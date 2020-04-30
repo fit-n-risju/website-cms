@@ -1,0 +1,36 @@
+.footer {
+    background-color: #22223B;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .footer a {
+    font-size: 16px;
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .icon-row {
+    align-items: center;
+    display: flex;
+    padding: 0 50px;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  
+  .icon-column {
+    flex: 33.33%;
+    padding: 15px;
+  }
+  
+  .insta-button {
+    margin-bottom: 40px;
+  }
+
+  .footer-image {
+    width: 20px;
+    margin: 5px;
+  }

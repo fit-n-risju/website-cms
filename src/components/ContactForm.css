@@ -1,0 +1,34 @@
+.contact-stage {
+    display: flex;
+    background-color: #D0B8AC;
+    padding: 20px 0;
+  }
+
+  .formbutton {
+    margin: 5px 0 0 0;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #22223b;
+  }
+
+  form {
+    margin: 10px 0 50px 0;
+  }
+  
+  form label {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    display: block;
+    max-width: 400px;
+    width: 100%;
+  }
+
+  input, textarea {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    border: 1px solid #4A4A4A;
+    border-radius: 3px;
+    padding: 5px;
+  }
