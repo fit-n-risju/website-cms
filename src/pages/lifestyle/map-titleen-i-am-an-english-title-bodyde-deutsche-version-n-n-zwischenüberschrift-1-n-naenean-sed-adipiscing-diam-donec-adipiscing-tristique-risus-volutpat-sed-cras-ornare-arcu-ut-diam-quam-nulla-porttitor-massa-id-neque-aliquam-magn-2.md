@@ -1,7 +1,7 @@
 ---
 templateKey: lifestyle-post
-titleEN: I am an English title
-titleDE: Ich bin eine deutsche Überschrift
+titleEN: I am an English title 2
+titleDE: Ich bin eine deutsche Überschrift 2
 date: 2020-05-01T20:45:29.131Z
 descriptionEN: This is an English short description for this article.
 descriptionDE: Dies ist eine deutsche Kurzbeschreibung des Artikels.
