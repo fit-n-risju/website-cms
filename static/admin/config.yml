@@ -16,7 +16,7 @@ collections:
     label: "Lifestyle articles"
     folder: "src/pages/lifestyle"
     create: true
-    slug: "{{titleEN}}"
+    slug: "{{fields.titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "lifestyle-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}
@@ -34,7 +34,7 @@ collections:
     label: "Recipes"
     folder: "src/pages/recipe"
     create: true
-    slug: "{{titleEN}}"
+    slug: "{{fields.titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "recipe-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}
@@ -56,7 +56,7 @@ collections:
     label: "Fitness articles"
     folder: "src/pages/fitness"
     create: true
-    slug: "{{titleEN}}"
+    slug: "{{fields.titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "fitness-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}

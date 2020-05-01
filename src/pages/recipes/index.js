@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../../components/Layout'
 import ImageHeader from "../../components/ImageHeader"
+import RecipeRoll from "../../components/RecipeRoll"
 
 export const RecipePage = ({
     image,
@@ -16,6 +17,7 @@ export const RecipePage = ({
   }) => (
     <Layout>
         <ImageHeader headerImage="/img/recipe-stage.jpg" headline="RECIPES FOR PERFORMANCE FOOD" subhead="Make your own power food: vegan, gluten free, and yummy!" />
+        <RecipeRoll />
     </Layout>
   )
 

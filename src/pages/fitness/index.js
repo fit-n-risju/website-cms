@@ -1,9 +1,8 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
 
 import Layout from '../../components/Layout'
 import ImageHeader from "../../components/ImageHeader"
+import FitnessRoll from "../../components/FitnessRoll"
 
 export const RecipePage = ({
     image,
@@ -16,6 +15,7 @@ export const RecipePage = ({
   }) => (
     <Layout>
         <ImageHeader headerImage="/img/fitness-stage.jpg" headline="GET FIT WITH US" subhead="Be your best self with our favorite exercises and the coolest gear!" />
+        <FitnessRoll />
     </Layout>
   )
 
