@@ -15,7 +15,7 @@ export const RecipePage = ({
     intro,
   }) => (
     <Layout>
-        <ImageHeader />
+        <ImageHeader headerImage="/img/fitness-stage.jpg" headline="GET FIT WITH US" subhead="Be your best self with our favorite exercises and the coolest gear!" />
     </Layout>
   )
 

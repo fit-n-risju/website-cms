@@ -1,11 +1,11 @@
 import React from "react"
 import "./ImageHeader.css"
 
-const ImageHeader = () => (
-<div className="lifestyle-stage">
+const ImageHeader = ({headerImage, headline, subhead}) => (
+<div className="lifestyle-stage" style={{ backgroundImage: `url(${headerImage})` }}>
     <div className="content">
-      <h1>OUR HEALTHY<br />LIFESTYLE</h1>
-      <p>Learn more about why we love our vegan and fit lifestyle.</p>
+      <h1>{headline}</h1>
+      <p>{subhead}</p>
     </div>
   </div>
   )

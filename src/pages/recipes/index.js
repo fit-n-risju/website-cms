@@ -15,7 +15,7 @@ export const RecipePage = ({
     intro,
   }) => (
     <Layout>
-        <ImageHeader />
+        <ImageHeader headerImage="/img/recipe-stage.jpg" headline="RECIPES FOR PERFORMANCE FOOD" subhead="Make your own power food: vegan, gluten free, and yummy!" />
     </Layout>
   )
 

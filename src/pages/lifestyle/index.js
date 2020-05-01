@@ -15,7 +15,7 @@ export const LifestylePage = ({
     intro,
   }) => (
     <Layout>
-        <ImageHeader />
+        <ImageHeader headerImage="/img/lifestyle-stage.jpg" headline="OUR HEALTHY LIFESTYLE" subhead="Learn more about why we love our vegan and fit lifestyle." />
     </Layout>
   )
 

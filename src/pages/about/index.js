@@ -19,7 +19,7 @@ export const AboutPage = ({
   intro,
 }) => (
   <Layout>
-      <ImageHeader />
+      <ImageHeader headerImage="/img/about-stage.jpg" headline="GET TO KNOW US" subhead="Learn more about why we're passionate about a fit and vegan lifestyle!" />
       <Quote />
       <Bio />
       <QuoteBeige />
