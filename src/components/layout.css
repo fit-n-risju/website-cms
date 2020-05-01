@@ -86,6 +86,9 @@ h1 {
     .content {
       padding: 20px;
     }
+    .content.imprint {
+      padding: 20px 40px;
+    }
   }
 
   @media screen and (max-width: 600px) {
