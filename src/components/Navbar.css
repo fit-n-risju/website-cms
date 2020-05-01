@@ -9,7 +9,7 @@
   margin: 0 auto;
 }
 
-  .header a {
+  .header a:not(.clickable-logo) {
     float: left;
     color: white;
     text-align: center;
@@ -20,7 +20,7 @@
     border-radius: 4px;
   }
 
-  .header a:hover {
+  .header a:not(.clickable-logo):hover {
     background-color: #ffffff;
     color: #F96F5D;
   }

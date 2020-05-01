@@ -1,5 +1,6 @@
 import React from "react"
 import "./Footer.css"
+import { Link } from "gatsby"
 
 const Footer = () => (
 <div className="footer">
@@ -10,7 +11,7 @@ const Footer = () => (
     </div>
     </div>
   <p>Icons made by <a href="https://www.flaticon.com/authors/freepik" _target="blank">Freepik</a> from www.flaticon.com</p>
-  <p><a href="#">Imprint</a></p>
+  <p><Link to="/imprint">Imprint</Link></p>
 </div>
 )
 

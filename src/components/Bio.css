@@ -1,0 +1,52 @@
+.bio-stage {
+    height: 400px;
+    display: flex;
+  }
+  
+  .bio-pic {
+    width: 50%;
+    margin: 0 auto;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+  }
+  
+.julia {
+    background-image: url("/img/julia.jpg");
+}
+
+.chris {
+    background-image: url("/img/chris.jpg");
+}
+
+  .bio-content {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px 200px 20px 100px;
+  }
+
+  .bio-content-left {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px 100px 20px 200px;
+  }
+
+  @media screen and (min-width: 1800px) {
+    .bio-content {
+      padding: 20px 400px 20px 100px;
+    }
+    .bio-content-left {
+        padding: 20px 100px 20px 400px;
+      }
+  }

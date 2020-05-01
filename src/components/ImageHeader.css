@@ -1,0 +1,18 @@
+.lifestyle-stage {
+    padding: 80px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-image: url(/img/recipe-header.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    height: 150px;
+    color: white;
+    }
+
+.lifestyle-stage p {
+    color: #22223B;
+}
