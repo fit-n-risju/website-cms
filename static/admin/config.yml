@@ -16,7 +16,7 @@ collections:
     label: "Lifestyle articles"
     folder: "src/pages/lifestyle"
     create: true
-    slug: "{{slug}}"
+    slug: "{{titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "lifestyle-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}
@@ -24,17 +24,17 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Beschreibung ENGLISH", name: "descriptionEN", widget: "text"}
       - {label: "Beschreibung DEUTSCH", name: "descriptionDE", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
+      - {label: "Featured Post", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Artikelbild", name: "featuredimage", widget: image}
       - {label: "Artikel ENGLISH", name: "bodyEN", widget: "markdown"}
       - {label: "Artikel DEUTSCH", name: "bodyDE", widget: "markdown"}
-      - {label: "Schlagwörter", name: "tags", widget: "list", required: false}
+      - {label: "Schlagwörter in Englisch", name: "tags", widget: "list", required: false}
   
   - name: "recipe"
     label: "Recipes"
     folder: "src/pages/recipe"
     create: true
-    slug: "{{slug}}"
+    slug: "{{titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "recipe-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}
@@ -42,21 +42,21 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Beschreibung ENGLISH", name: "descriptionEN", widget: "text"}
       - {label: "Beschreibung DEUTSCH", name: "descriptionDE", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
+      - {label: "Featured Post", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Artikelbild", name: "featuredimage", widget: image}
       - {label: "Einleitung ENGLISH", name: "bodyEN", widget: "markdown", required: false}
-      - {label: "Zutatenliste ENGLISH", name: "ingredientlistEN", widget: "list", fields: [{label: Menge, name: amount, widget: string}, {label: Zutat, name: ingredient, widget: string}]}
+      - {label: "Zutatenliste ENGLISH", name: "ingredientlistEN", widget: "list", fields: [{label: Amount, name: amount, widget: string}, {label: Ingredient, name: ingredient, widget: string}]}
       - {label: "Arbeitsschritte ENGLISH", name: "bodyEN", widget: "markdown"}
       - {label: "Einleitung DEUTSCH", name: "bodyDE", widget: "markdown", required: false}
       - {label: "Zutatenliste DEUTSCH", name: "ingredientlistDE", widget: "list", fields: [{label: Menge, name: amount, widget: string}, {label: Zutat, name: ingredient, widget: string}]}
       - {label: "Arbeitsschritte DEUTSCH", name: "bodyDE", widget: "markdown"}
-      - {label: "Schlagwörter", name: "tags", widget: "list", required: false}
+      - {label: "Schlagwörter in Englisch", name: "tags", widget: "list", required: false}
 
   - name: "fitness"
     label: "Fitness articles"
     folder: "src/pages/fitness"
     create: true
-    slug: "{{slug}}"
+    slug: "{{titleEN}}"
     fields:       
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "fitness-post"}
       - {label: "Titel ENGLISH", name: "titleEN", widget: "string"}
@@ -64,8 +64,8 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Beschreibung ENGLISH", name: "descriptionEN", widget: "text"}
       - {label: "Beschreibung DEUTSCH", name: "descriptionDE", widget: "text"}
-      - {label: "Post auf Startseite", name: "featuredpost", widget: "boolean"}
+      - {label: "Post auf Startseite", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Artikelbild", name: "featuredimage", widget: image}
       - {label: "Artikel ENGLISH", name: "bodyEN", widget: "markdown"}
       - {label: "Artikel DEUTSCH", name: "bodyDE", widget: "markdown"}
-      - {label: "Schlagwörter", name: "tags", widget: "list", required: false}
+      - {label: "Schlagwörter in Englisch", name: "tags", widget: "list", required: false}
