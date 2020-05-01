@@ -1,7 +1,7 @@
 ---
 templateKey: recipe-post
-titleEN: I am an English recipe
-titleDE: Ich bin ein deutsches Rezept
+titleEN: I am an English recipe 2
+titleDE: Ich bin ein deutsches Rezept 2
 date: 2020-05-01T20:45:10.191Z
 descriptionEN: This is an English description of a recipe.
 descriptionDE: "Dies ist eine deutsche Beschreibung eines Rezepts. "
