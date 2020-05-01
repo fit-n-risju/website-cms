@@ -40,3 +40,22 @@
 .vid {
   width:100%; 
 }
+
+@media screen and (max-width: 800px) {
+    .vid {
+      height: 100%;
+      width: auto;
+    }
+    .video-text {
+      padding: 0;
+    }
+    .video-stage {
+      padding: 40px;
+    }
+    .vidContainer {
+      height: 350px;
+    }
+    .video-text p {
+      font-size: 16px;
+    }
+}

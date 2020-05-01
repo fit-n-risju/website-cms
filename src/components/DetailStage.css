@@ -23,3 +23,13 @@
     box-sizing: border-box;
     padding: 20px 200px 20px 100px;
   }
+
+  @media screen and (max-width: 1300px) {
+    .detail-pic {
+        background-position: center;
+        background-size: cover;
+    }
+    .detail-content {
+      padding: 20px 20px;
+    }
+}

@@ -81,3 +81,18 @@ h1 {
   .content.imprint {
     max-width: 800px;
   }
+
+  @media screen and (max-width: 800px) {
+    .content {
+      padding: 20px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    h1 {
+     font-size: 40px; 
+    }
+    h3 {
+      font-size: 25px; 
+     }
+  }

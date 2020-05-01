@@ -69,14 +69,6 @@
       color: black;
     }
 
-    .content {
-        padding: 0 50px;
-        max-width: 1000px;
-        margin: 0 auto;
-        width: 100%;
-        box-sizing: border-box;
-      }
-
       .button.select-button {
         background-color: #ffffff;
         border: 1px solid #ffffff;

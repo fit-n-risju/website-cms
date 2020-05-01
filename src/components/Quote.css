@@ -24,3 +24,12 @@
   .quote-beige a {
     margin-bottom: 40px;
   }
+
+  @media screen and (max-width: 800px) {
+    .quote {
+      padding: 0 20px;
+    }
+    .quote-beige {
+      padding: 0 20px;
+    }
+  }

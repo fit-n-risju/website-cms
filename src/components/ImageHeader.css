@@ -16,3 +16,17 @@
 .lifestyle-stage p {
     color: #22223B;
 } 
+
+@media screen and (max-width: 800px) {
+    .lifestyle-stage {
+        padding: 80px 20px;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .lifestyle-stage p {
+        width: 50%;
+    }
+}
