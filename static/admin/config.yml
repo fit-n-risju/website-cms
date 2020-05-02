@@ -44,12 +44,12 @@ collections:
       - {label: "Beschreibung DEUTSCH", name: "descriptionDE", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean", required: false}
       - {label: "Artikelbild", name: "featuredimage", widget: image}
-      - {label: "Einleitung ENGLISH", name: "bodyEN", widget: "markdown", required: false}
+      - {label: "Einleitung ENGLISH", name: "introEN", widget: "markdown", required: false}
       - {label: "Zutatenliste ENGLISH", name: "ingredientlistEN", widget: "list", fields: [{label: Amount, name: amount, widget: string}, {label: Ingredient, name: ingredient, widget: string}]}
-      - {label: "Arbeitsschritte ENGLISH", name: "bodyEN", widget: "markdown"}
-      - {label: "Einleitung DEUTSCH", name: "bodyDE", widget: "markdown", required: false}
+      - {label: "Arbeitsschritte ENGLISH", name: "instructionsEN", widget: "markdown"}
+      - {label: "Einleitung DEUTSCH", name: "introDE", widget: "markdown", required: false}
       - {label: "Zutatenliste DEUTSCH", name: "ingredientlistDE", widget: "list", fields: [{label: Menge, name: amount, widget: string}, {label: Zutat, name: ingredient, widget: string}]}
-      - {label: "Arbeitsschritte DEUTSCH", name: "bodyDE", widget: "markdown"}
+      - {label: "Arbeitsschritte DEUTSCH", name: "instructionsDE", widget: "markdown"}
       - {label: "Schlagwörter in Englisch", name: "tags", widget: "list", required: false}
 
   - name: "fitness"

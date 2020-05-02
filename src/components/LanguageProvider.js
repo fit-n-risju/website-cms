@@ -1,6 +1,10 @@
 import React from 'react';
 
-const LanguageContext = React.createContext('EN');
+const LanguageContext = React.createContext({
+    language: 'EN',
+    isEnglish: true,
+    setLanguage: () => {},
+});
 
 const LanguageProvider = ({ children }) => {
     const setLanguage = typeof window !== 'undefined' ? window.localStorage.getItem('siteLanguage') : 'EN';
@@ -17,6 +21,7 @@ const LanguageProvider = ({ children }) => {
     return (
         <LanguageContext.Provider value={{
             language,
+            isEnglish: language === 'EN',
             setLanguage: setLanguagePreference,
         }}>
             {children}

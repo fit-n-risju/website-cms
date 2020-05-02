@@ -65,7 +65,9 @@ export const LifestylePostTemplate = ({
         }}>
           { isEnglish ? 'Show in Deutsch' : 'Show in English' }
         </a>
-
+        
+        <div className="comment-section">
+        </div>
         <DiscussionEmbed
           shortname="fitnrisju"
           config={
@@ -76,6 +78,7 @@ export const LifestylePostTemplate = ({
             }
           }
         />
+        
       </div>
     </section>
   )

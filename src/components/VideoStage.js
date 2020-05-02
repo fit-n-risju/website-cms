@@ -1,9 +1,11 @@
 import React from 'react'
 import "./VideoStage.css"
 import { withPrefix } from "gatsby"
+import { useLanguage } from '../components/LanguageProvider'
 
 const VideoStage = () => {
   const [isMobile, setIsMobile] = React.useState(true);
+  const { isEnglish, setLanguage } = useLanguage();
 
   React.useEffect(() => {
     if (window.innerWidth > 600) {
@@ -19,8 +21,8 @@ const VideoStage = () => {
         </video>)}
       <div className='video-stage'>
         <div className="video-text">
-        <h1>FIT, VEGAN,<br/>GLUTEN FREE</h1>
-        <p>Learn more about super healthy performance food and the latest trends in fitness!</p>
+        <h1>FIT, VEGAN,<br/>{isEnglish ? "GLUTEN FREE" : "GLUTENFREI"}</h1>
+        <p>{isEnglish ? "Learn more about super healthy performance food and the latest trends in fitness!" : "Erfahre mehr über gesundes Performance-Food und die neuesten Fitness-Trends!"}</p>
         </div>
     </div>
     </div>

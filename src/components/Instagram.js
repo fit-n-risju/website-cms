@@ -1,8 +1,11 @@
 import React from "react"
 import "./Instagram.css"
+import { useLanguage } from '../components/LanguageProvider'
 
 
 const Instagram = () => {
+
+  const { isEnglish, setLanguage } = useLanguage();
    
     React.useEffect(() => {
         const script = document.createElement('script');
@@ -20,13 +23,13 @@ const Instagram = () => {
 return(
 <div className="content">
 <div className="section-head">
-  <h2>CHECK OUT OUR INSTAGRAM</h2>
+  <h2>{isEnglish ? "CHECK OUT OUR INSTAGRAM" : "ENTDECKE UNSER INSTAGRAM"}</h2>
 </div>
 <div className="social">
   <div className="elfsight-app-6fb16cee-314e-4208-958d-a2c33dd0a18d"></div>
 </div>
 
-<a className="button insta-button" href="https://www.instagram.com/fit.n.risju/" _target="blank">Follow us on Instagram!</a>
+<a className="button insta-button" href="https://www.instagram.com/fit.n.risju/" _target="blank">{isEnglish ? "Follow us on Instagram!" : "Folge uns auf Instagram!"}</a>
 
 </div>
 )

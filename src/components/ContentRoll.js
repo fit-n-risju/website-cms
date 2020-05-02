@@ -3,10 +3,12 @@ import "./ContentRoll.css"
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import { useLanguage } from '../components/LanguageProvider'
 
-class ContentRoll extends React.Component {
-  render() {
-    const { data } = this.props
+const ContentRoll = ({ data }) => {
+
+  const { isEnglish, setLanguage } = useLanguage();
+
     const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -30,18 +32,18 @@ class ContentRoll extends React.Component {
                       className="title"
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.titleEN}
+                      {isEnglish ? post.frontmatter.titleEN : post.frontmatter.titleDE}
                     </Link>
                     <span className="subtitle">
-                      {post.frontmatter.date}
+                      { new Date(post.frontmatter.date).toLocaleString(isEnglish ? 'en-US' : 'de-DE', { year: 'numeric', month: 'long', day: 'numeric' }) }
                     </span>
                   </p>
                 <p>
-                  {post.frontmatter.descriptionEN}
+                  {isEnglish ? post.frontmatter.descriptionEN : post.frontmatter.descriptionDE}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    {isEnglish ? "Keep Reading →" : "Weiterlesen →"}
                   </Link>
                 </p>
                 </div>
@@ -49,7 +51,6 @@ class ContentRoll extends React.Component {
           ))}
       </div>
     )
-  }
 }
 
 ContentRoll.propTypes = {

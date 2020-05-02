@@ -76,3 +76,8 @@
 .blog blockquote p {
     font-size: 20px;
 }
+
+.comment-section {
+    height: 30px;
+    width: 100%;
+}
