@@ -1,5 +1,7 @@
 import React from 'react'
 import logo from '../img/logo.png'
+import de from "../img/de.png"
+import en from "../img/en.png"
 import "./Navbar.css"
 import { Link } from "gatsby"
 
@@ -16,6 +18,8 @@ const Navbar = class extends React.Component {
             <Link to="/recipes">Recipes</Link>
             <Link to="/about">About us</Link>
             <Link to="#contact_area">Contact</Link>
+            <a className="language"><img src={de} /></a>
+            <a className="language"><img src={en} /></a>
           </div>
         </div>  
       </div>

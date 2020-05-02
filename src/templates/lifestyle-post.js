@@ -1,34 +1,51 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import ReactMarkdown from 'react-markdown'
 import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import "./blog.css"
+import ImageHeader from "../components/ImageHeader"
+import { DiscussionEmbed } from "disqus-react"
+
+import { useLanguage } from '../components/LanguageProvider'
 
 export const LifestylePostTemplate = ({
   content,
   contentComponent,
   description,
   tags,
-  title,
+  titleEN,
+  titleDE,
+  featuredimage,
   helmet,
+  bodyEN,
+  bodyDE,
+  date,
+  id,
 }) => {
+  const { language, setLanguage } = useLanguage();
+  const isEnglish = language === 'EN'
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+    <section className="section blog">
       {helmet || ''}
+      <div className="blog-header-image">
+        <ImageHeader headerImage={featuredimage.childImageSharp.fluid.src} />
+      </div>
       <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
+        <div>
+          <div className="column-blog is-10 is-offset-1">
+            <h1 className="title">
+              {isEnglish ? titleEN : titleDE}
             </h1>
-            <p>{description}</p>
+            <ReactMarkdown source={isEnglish ? bodyEN : bodyDE} />
             <PostContent content={content} />
             {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
+              <div>
                 <h4>Tags</h4>
                 <ul className="taglist">
                   {tags.map((tag) => (
@@ -41,6 +58,24 @@ export const LifestylePostTemplate = ({
             ) : null}
           </div>
         </div>
+
+        <a onClick={(e) => {
+          e.preventDefault();
+          setLanguage(isEnglish ? 'DE' : 'EN')
+        }}>
+          { isEnglish ? 'Show in Deutsch' : 'Show in English' }
+        </a>
+
+        <DiscussionEmbed
+          shortname="fitnrisju"
+          config={
+            {
+              url: window.location.href,
+              identifier: id,
+              title: titleEN,
+            }
+          }
+        />
       </div>
     </section>
   )
@@ -57,23 +92,23 @@ LifestylePostTemplate.propTypes = {
 const LifestylePost = ({ data }) => {
   const { markdownRemark: post } = data
 
+  console.log('markdownRemark', data.markdownRemark)
+
   return (
     <Layout>
       <LifestylePostTemplate
-        content={post.html}
+        id={post.id}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+            <title>{`${post.frontmatter.titleEN}`}</title>
             <meta
               name="description"
               content={`${post.frontmatter.description}`}
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
-        title={post.frontmatter.title}
+        {...post.frontmatter}
       />
     </Layout>
   )
@@ -93,10 +128,23 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
-        title
-        description
         tags
+        templateKey
+        titleEN
+        titleDE
+        date(formatString: "MMMM DD, YYYY")
+        descriptionEN
+        descriptionDE
+        featuredpost
+        featuredimage {
+          childImageSharp {
+              fluid(maxWidth: 1800, quality: 100) {
+                  ...GatsbyImageSharpFluid
+              }
+          }
+        }
+        bodyEN
+        bodyDE
       }
     }
   }

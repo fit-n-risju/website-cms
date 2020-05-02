@@ -20,7 +20,7 @@
     border-radius: 4px;
   }
 
-  .header a:not(.clickable-logo):hover {
+  .header a:not(.clickable-logo):not(.language):hover {
     background-color: #ffffff;
     color: #F96F5D;
   }
@@ -47,4 +47,9 @@
 
   .logo {
     height: 45px;
+  }
+
+  .language img {
+    width: 20px;
+    height: 20px;
   }

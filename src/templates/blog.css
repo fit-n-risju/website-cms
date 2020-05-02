@@ -1,0 +1,78 @@
+.blog .content {
+    max-width: 800px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.blog h1 {
+    font-size: 40px;
+    padding: 10px 0;
+}
+
+.blog h2 {
+    font-size: 20px;
+    padding: 20px 0 10px 0;
+    color: #F96F5D;
+}
+
+.blog h3 {
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    padding: 20px 0 10px 0;
+    color: #F96F5D;
+}
+
+.blog h4 {
+    font-size: 15;
+    padding: 20px 0 10px 0;
+    color: #F96F5D;
+}
+
+.blog p {
+    padding: 10px 0 10px 0;
+}
+
+.blog a {
+    color: black;
+    text-decoration: underline;
+}
+
+.blog a:hover {
+    color: #F96F5D;
+    text-decoration: underline;
+}
+
+.blog ul {
+    list-style-type: circle;
+    padding: 10px 0 10px 20px;
+}
+
+.blog li {
+    padding: 2px 0;
+}
+
+.blog li a {
+    color: black;
+}
+
+.blog img {
+    max-width: 100%;
+}
+
+.blog ol {
+    list-style-type: decimal;
+    padding: 10px 0 10px 20px;
+}
+
+.blog blockquote {
+    padding: 10px 20px;
+    opacity: 0.8;
+    font-size: 25px;
+    border-left: 1px solid #F96F5D;
+    margin: 5px 0 5px 5px;
+}
+
+.blog blockquote p {
+    font-size: 20px;
+}
