@@ -3,13 +3,13 @@ import React from 'react';
 const LanguageContext = React.createContext('EN');
 
 const LanguageProvider = ({ children }) => {
-    const setLanguage = window && window.localStorage ? window.localStorage.getItem('siteLanguage') : 'EN';
+    const setLanguage = typeof window !== 'undefined' ? window.localStorage.getItem('siteLanguage') : 'EN';
     const [language, updateLanguage] = React.useState(setLanguage || 'EN');
 
     const setLanguagePreference = (lang) => {
         updateLanguage(lang);
 
-        if (window.localStorage) {
+        if (typeof window !== 'undefined' && window.localStorage) {
             window.localStorage.setItem('siteLanguage', lang.toString());
         }
     }
