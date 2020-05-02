@@ -70,7 +70,7 @@ export const LifestylePostTemplate = ({
           shortname="fitnrisju"
           config={
             {
-              url: window.location.href,
+              url: typeof window !== 'undefined' ? window.location.href : null,
               identifier: id,
               title: titleEN,
             }
