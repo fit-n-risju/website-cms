@@ -2,10 +2,17 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { RecipePostTemplate } from '../../templates/recipe-post'
 
-const RecipePostPreview = ({ entry, widgetFor }) => {
+const RecipePostPreview = ({ entry, getAsset }) => {
   const tags = entry.getIn(['data', 'tags'])
   return (
     <RecipePostTemplate
+      featuredimage={{
+        childImageSharp: {
+            fluid: {
+                src: getAsset(entry.getIn(['data', 'featuredimage']))
+            }
+        }
+      }}
       tags={tags && tags.toJS()}
       titleEN={entry.getIn(["data", "titleEN"])}
       titleDE={entry.getIn(["data", "titleDE"])}
