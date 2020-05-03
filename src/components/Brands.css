@@ -1,3 +1,12 @@
-.brands {
+.logo-stage {
     padding: 40px 0;
+}
+
+.logo-stage h2 {
+    padding: 5px 0 20px 0;
+}
+
+.brand-image {
+    margin: 0 auto;
+    width: 180px;
 }

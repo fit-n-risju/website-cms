@@ -80,9 +80,12 @@ collections:
       - {label: "Logo Marke 1", name: "logo1", widget: image, required: false}
       - {label: "Beschreibung Marke 1 DE", name: "brand1de", widget: string, required: false}
       - {label: "Beschreibung Marke 1 EN", name: "brand1en", widget: string, required: false}
+      - {label: "Beschreibung Marke 1 Link", name: "brand1link", widget: string, required: false}
       - {label: "Logo Marke 2", name: "logo2", widget: image, required: false}
       - {label: "Beschreibung Marke 2 DE", name: "brand2de", widget: string, required: false}
       - {label: "Beschreibung Marke 2 EN", name: "brand2en", widget: string, required: false}
+      - {label: "Beschreibung Marke 2 Link", name: "brand2link", widget: string, required: false}
       - {label: "Logo Marke 3", name: "logo3", widget: image, required: false}
       - {label: "Beschreibung Marke 3 DE", name: "brand3de", widget: string, required: false}
       - {label: "Beschreibung Marke 3 EN", name: "brand3en", widget: string, required: false}
+      - {label: "Beschreibung Marke 3 Link", name: "brand3link", widget: string, required: false}

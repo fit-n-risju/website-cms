@@ -18,9 +18,12 @@ const Brands = ({ data }) => {
   
       return (
         <div className="content">
-            <div className="detail-row">
-                <div className="detail-column">
-                <div>
+            <div className="logo-stage">
+            <h2>{isEnglish ? "BRANDS WE'RE WORKING WITH" : "MARKEN-PARTNERSCHAFTEN"}</h2>
+            <div className="detail-row logo-row">
+                <div className="detail-column logo-column">
+                <a href={brandData.brand1link} target="_blank" >
+                <div className="brand-image">
                     <PreviewCompatibleImage
                         imageInfo={{
                         image: brandData.logo1,
@@ -28,12 +31,14 @@ const Brands = ({ data }) => {
                         }}
                     />
                 </div>
+                </a>
                 <p>
                     {isEnglish ? brandData.brand1en : brandData.brand1de}
                 </p>
                 </div>
-                <div className="detail-column">
-                <div>
+                <div className="detail-column logo-column">
+                <a href={brandData.brand2link} target="_blank" >
+                <div className="brand-image">
                     <PreviewCompatibleImage
                         imageInfo={{
                         image: brandData.logo2,
@@ -41,12 +46,14 @@ const Brands = ({ data }) => {
                         }}
                     />
                 </div>
+                </a>
                 <p>
                     {isEnglish ? brandData.brand2en : brandData.brand2de}
                 </p>
                 </div>
-                <div className="detail-column">
-                <div>
+                <div className="detail-column logo-column">
+                <a href={brandData.brand3link} target="_blank" >
+                <div className="brand-image">
                     <PreviewCompatibleImage
                         imageInfo={{
                         image: brandData.logo3,
@@ -54,9 +61,11 @@ const Brands = ({ data }) => {
                         }}
                     />
                 </div>
+                </a>
                 <p>
                     {isEnglish ? brandData.brand3en : brandData.brand3de}
                 </p>
+                </div>
                 </div>
         </div>
         </div>
@@ -109,6 +118,9 @@ const Brands = ({ data }) => {
                   brand1en
                   brand2en
                   brand3en
+                  brand1link
+                  brand2link
+                  brand3link
                   }
                 }
               }
