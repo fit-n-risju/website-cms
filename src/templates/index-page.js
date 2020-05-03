@@ -9,6 +9,8 @@ import DetailStage from "../components/DetailStage"
 import DetailSelector from "../components/DetailSelector"
 import Instagram from "../components/Instagram"
 import ContactForm from "../components/ContactForm"
+import Divider from "../components/Divider"
+import Brands from "../components/Brands"
 
 export const IndexPageTemplate = ({
   image,
@@ -24,6 +26,8 @@ export const IndexPageTemplate = ({
     <Quote />
     <DetailStage />
     <DetailSelector />
+    <Brands />
+    <Divider />
     <Instagram />
     <ContactForm />
   </div>

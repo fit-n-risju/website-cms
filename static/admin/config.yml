@@ -69,3 +69,16 @@ collections:
       - {label: "Artikel ENGLISH", name: "bodyEN", widget: "markdown"}
       - {label: "Artikel DEUTSCH", name: "bodyDE", widget: "markdown"}
       - {label: "Schlagwörter in Englisch", name: "tags", widget: "list", required: false}
+
+  - name: "brands"
+    label: "Markenlogos"
+    folder: "src/pages/brands"
+    create: true
+    slug: "{{fields.brand}}"
+    fields: 
+      - {label: "Logo Marke 1", name: "logo1", widget: image, required: false}
+      - {label: "Beschreibung Marke 1", name: "brand1", widget: string, required: false}
+      - {label: "Logo Marke 2", name: "logo2", widget: image, required: false}
+      - {label: "Beschreibung Marke 2", name: "brand2", widget: string, required: false}
+      - {label: "Logo Marke 3", name: "logo3", widget: image, required: false}
+      - {label: "Beschreibung Marke 3", name: "brand3", widget: string, required: false}

@@ -9,6 +9,7 @@ import Quote from "../../components/Quote"
 import Bio from "../../components/Bio"
 import QuoteBeige from '../../components/QuoteBeige'
 import { useLanguage } from '../../components/LanguageProvider'
+import Divider from "../../components/Divider"
 
 export const AboutPage = ({
   image,
@@ -37,6 +38,7 @@ return(
       <ImageHeader headerImage="/img/about-stage.jpg" headline={headline} subhead={subhead} />
       <Quote />
       <Bio />
+      <Divider />
       <QuoteBeige />
   </Layout>
 )

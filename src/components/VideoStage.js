@@ -15,7 +15,7 @@ const VideoStage = () => {
 
   return (
     <div className="vidContainer">
-      {isMobile ? <img className="mobile-stage" src={withPrefix('img/mobile-home.jpg')} /> : (
+      {isMobile ? <div className="mobile-stage" /> : (
         <video autoPlay muted loop id="video" className="vid">
           <source id="mp4" type="video/mp4" src={withPrefix('video/stage.mp4')} />
         </video>)}

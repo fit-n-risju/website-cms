@@ -2,6 +2,7 @@
     overflow: hidden;
     background-color: #F96F5D;
     padding: 10px 0;
+    height: 45px;
   }
 
 .header-content {
@@ -34,17 +35,6 @@
     float: right;
   }
   
-  @media screen and (max-width: 500px) {
-    .header a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-    .header-right {
-      float: none;
-    }
-  }
-
   .logo {
     height: 45px;
   }
@@ -56,4 +46,52 @@
 
   .language {
     cursor: pointer;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .clickable-logo {
+    height: 45px;
+    width: 175px;
+    display: inline-block;
+  }
+
+  @media screen and (max-width: 875px) {
+    .header-right {
+      float: none;
+      display: none;
+      padding: 10px 0;
+    }
+    .hamburger {
+      display: inline-block;
+      width: 20px;
+      float: right;
+      margin: 15px 0 0 0;
+    }
+    .header-right.open {
+      display: block;
+    }
+    .header {
+      height: auto;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .header {
+      padding: 0;
+    }
+
+    .header-content {
+      height: auto;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .header a:not(.clickable-logo) {
+      float: none;
+      display: block;
+      text-align: left;
+    }
   }

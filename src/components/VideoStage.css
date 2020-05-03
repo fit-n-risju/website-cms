@@ -43,7 +43,10 @@
 
 .mobile-stage {
   height: 100%;
-  width: auto;
+  width: 100%;
+  background-image: url('/img/mobile-home.jpg');
+  background-size: cover;
+  background-position: bottom left;
 }
 
 @media screen and (max-width: 800px) {
