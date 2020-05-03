@@ -18,8 +18,8 @@ const RecipePostPreview = ({ entry, getAsset, widgetsFor }) => {
       titleDE={entry.getIn(["data", "titleDE"])}
       introEN={entry.getIn(["data", "introEN"])}
       introDE={entry.getIn(["data", "introDE"])}
-      ingredientlistDE={widgetsFor("ingredientlistDE")}
-      ingredientlistEN={widgetsFor("ingredientlistEN")}
+      ingredientlistDE={entry.getIn(["data", "ingredientlistDE"]).toJS()}
+      ingredientlistEN={entry.getIn(["data", "ingredientlistEN"]).toJS()}
       instructionsDE={entry.getIn(["data", "instructionsDE"])}
       instructionsEN={entry.getIn(["data", "instructionsEN"])}
       isCMSPreview={true}
