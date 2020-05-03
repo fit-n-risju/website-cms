@@ -18,6 +18,7 @@ const FitnessPostPreview = ({ entry, getAsset }) => {
       titleDE={entry.getIn(["data", "titleDE"])}
       bodyEN={entry.getIn(["data", "bodyEN"])}
       bodyDE={entry.getIn(["data", "bodyDE"])}
+      isCMSPreview={true}
     />
   )
 }

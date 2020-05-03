@@ -5,7 +5,6 @@ import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
 import "./blog.css"
 import ImageHeader from "../components/ImageHeader"
 import { DiscussionEmbed } from "disqus-react"
@@ -13,7 +12,6 @@ import { DiscussionEmbed } from "disqus-react"
 import { useLanguage } from '../components/LanguageProvider'
 
 export const LifestylePostTemplate = ({
-  contentComponent,
   tags,
   titleEN,
   titleDE,
@@ -21,12 +19,11 @@ export const LifestylePostTemplate = ({
   helmet,
   bodyEN,
   bodyDE,
-  date,
   id,
+  isCMSPreview,
 }) => {
-  const { language, setLanguage } = useLanguage();
+  const { language } = useLanguage();
   const isEnglish = language === 'EN'
-  const PostContent = contentComponent || Content
 
   return (
     <section className="section blog">
@@ -59,7 +56,7 @@ export const LifestylePostTemplate = ({
         
         <div className="comment-section">
         </div>
-        <DiscussionEmbed
+        {!isCMSPreview && <DiscussionEmbed
           shortname="fitnrisju"
           config={
             {
@@ -68,11 +65,15 @@ export const LifestylePostTemplate = ({
               title: titleEN,
             }
           }
-        />
+        />}
         
       </div>
     </section>
   )
+}
+
+LifestylePostTemplate.defaultProps = {
+  isCMSPreview: false,
 }
 
 LifestylePostTemplate.propTypes = {
@@ -91,7 +92,6 @@ const LifestylePost = ({ data }) => {
     <Layout>
       <LifestylePostTemplate
         id={post.id}
-        contentComponent={HTMLContent}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.titleEN}`}</title>

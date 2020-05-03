@@ -22,6 +22,7 @@ const RecipePostPreview = ({ entry, getAsset }) => {
       ingredientlistEN={entry.getIn(["data", "ingredientlistEN"])}
       instructionsDE={entry.getIn(["data", "instructionsDE"])}
       instructionsEN={entry.getIn(["data", "instructionsEN"])}
+      isCMSPreview={true}
     />
   )
 }

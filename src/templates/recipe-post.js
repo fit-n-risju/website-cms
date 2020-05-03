@@ -26,12 +26,11 @@ export const RecipePostTemplate = ({
   introDE,
   ingredientlistDE,
   instructionsDE,
-  date,
   id,
+  isCMSPreview,
 }) => {
-  const { language, setLanguage } = useLanguage();
+  const { language } = useLanguage();
   const isEnglish = language === 'EN'
-  const PostContent = contentComponent || Content
 
   return (
     <section className="section blog">
@@ -66,9 +65,9 @@ export const RecipePostTemplate = ({
           </div>
         </div>
         
-        <div className="comment-section">
-        </div>
-        <DiscussionEmbed
+        <div className="comment-section"></div>
+        
+        {!isCMSPreview && <DiscussionEmbed
           shortname="fitnrisju"
           config={
             {
@@ -77,12 +76,16 @@ export const RecipePostTemplate = ({
               title: titleEN,
             }
           }
-        />
+        />}
         
       </div>
     </section>
   )
 }
+
+RecipePostTemplate.defaultProps = {
+  isCMSPreview: false,
+};
 
 RecipePostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
