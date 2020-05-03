@@ -16,7 +16,16 @@ const TemplateWrapper = ({ children }) => {
           <title>{title}</title>
           <meta name="description" content={description} />
           <link href="https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500;600;700;800&display=swap" rel="stylesheet"></link>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165414002-1"></script>
+          <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
+            gtag('config', 'UA-165414002-1');
+            `}
+          </script>
           <link
             rel="icon"
             type="image/png"
