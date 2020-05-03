@@ -17,6 +17,8 @@ export const FitnessPostTemplate = ({
   titleDE,
   featuredimage,
   helmet,
+  descriptionEN,
+  descriptionDE,
   bodyEN,
   bodyDE,
   id,
@@ -27,7 +29,16 @@ export const FitnessPostTemplate = ({
 
   return (
     <section className="section blog">
-      {helmet || ''}
+      
+      <Helmet>
+        <title>{`fit.n.risju - ${isEnglish ? titleEN : titleDE}`}</title>
+        <meta
+          lang={language.toLowerCase()}
+          name="description"
+          content={isEnglish ? descriptionEN : descriptionDE}
+        />
+      </Helmet>
+
       <div className="blog-header-image">
         <ImageHeader headerImage={featuredimage.childImageSharp.fluid.src} />
       </div>

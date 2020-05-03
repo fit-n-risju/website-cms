@@ -5,7 +5,6 @@ import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
 import "./blog.css"
 import ImageHeader from "../components/ImageHeader"
 import { DiscussionEmbed } from "disqus-react"
@@ -14,12 +13,12 @@ import Ingredients from "../components/Ingredients"
 import { useLanguage } from '../components/LanguageProvider'
 
 export const RecipePostTemplate = ({
-  contentComponent,
   tags,
   titleEN,
   titleDE,
   featuredimage,
-  helmet,
+  descriptionEN,
+  descriptionDE,
   introEN,
   ingredientlistEN,
   instructionsEN,
@@ -34,7 +33,16 @@ export const RecipePostTemplate = ({
 
   return (
     <section className="section blog">
-      {helmet || ''}
+      
+      <Helmet>
+        <title>{`fit.n.risju - ${isEnglish ? titleEN : titleDE}`}</title>
+        <meta
+          lang={language.toLowerCase()}
+          name="description"
+          content={isEnglish ? descriptionEN : descriptionDE}
+        />
+      </Helmet>
+
       <div className="blog-header-image">
         <ImageHeader headerImage={featuredimage.childImageSharp.fluid.src} />
       </div>
@@ -92,7 +100,6 @@ RecipePostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object,
 }
 
 const RecipePost = ({ data }) => {
@@ -102,16 +109,6 @@ const RecipePost = ({ data }) => {
     <Layout>
       <RecipePostTemplate
         id={post.id}
-        contentComponent={HTMLContent}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.titleEN}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
         {...post.frontmatter}
       />
     </Layout>

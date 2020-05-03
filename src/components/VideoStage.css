@@ -42,7 +42,8 @@
 }
 
 .mobile-stage {
-  width: 100%;
+  height: 100%;
+  width: auto;
 }
 
 @media screen and (max-width: 800px) {

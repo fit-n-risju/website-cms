@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'fit.n.risju – Vegan & gluten-free fitness tips & products',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Learn more about a healthy and balanced lifestyle on our page. Erfahre mehr über einen gesunden und ausgewogenen Lebensstil auf unserer Seite.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

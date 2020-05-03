@@ -83,6 +83,29 @@ h1 {
     max-width: 800px;
   }
 
+.keyword-overview li {
+  padding: 5px 0;
+}
+
+.taglist a {
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.taglist h2 {
+  margin: 7px 0;
+  font-size: 16px;
+}
+
+.taglist a {
+  color: black;
+}
+
+  .tag-list-link {
+    text-align: left;
+    color: black;
+  }
+
   @media screen and (max-width: 800px) {
     .content {
       padding: 20px;
