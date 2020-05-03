@@ -8,6 +8,7 @@ import ImageHeader from "../../components/ImageHeader"
 import Quote from "../../components/Quote"
 import Bio from "../../components/Bio"
 import QuoteBeige from '../../components/QuoteBeige'
+import { useLanguage } from '../../components/LanguageProvider'
 
 export const AboutPage = ({
   image,
@@ -17,12 +18,18 @@ export const AboutPage = ({
   mainpitch,
   description,
   intro,
-}) => (
+}) => {
+
+  const { isEnglish } = useLanguage();
+
+return(
   <Layout>
-      <ImageHeader headerImage="/img/about-stage.jpg" headline="GET TO KNOW US" subhead="Learn more about why we're passionate about a fit and vegan lifestyle!" />
+      <ImageHeader headerImage="/img/about-stage.jpg" headline={isEnglish ? "GET TO KNOW US" : "LERNT UNS KENNEN"} subhead={isEnglish ? "Learn more about why we're passionate about a fit and vegan lifestyle!" : "Hier erzählen wir euch, warum wir uns super mit einem fitten und veganen Lebensstil auskennen."} />
       <Quote />
       <Bio />
       <QuoteBeige />
   </Layout>
 )
+}
+
 export default AboutPage

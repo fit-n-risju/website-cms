@@ -15,7 +15,6 @@ import { useLanguage } from '../components/LanguageProvider'
 export const FitnessPostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   titleEN,
   titleDE,
@@ -23,7 +22,6 @@ export const FitnessPostTemplate = ({
   helmet,
   bodyEN,
   bodyDE,
-  date,
   id,
 }) => {
   const { language, setLanguage } = useLanguage();
@@ -39,6 +37,7 @@ export const FitnessPostTemplate = ({
       <div className="container content">
         <div>
           <div className="column-blog is-10 is-offset-1">
+          <Link className="link-to-blog-overview" to="/fitness/">{isEnglish ? "Back to fitness overview" : "Zurück zur Fitness-Übersicht"}</Link>
             <h1 className="title">
               {isEnglish ? titleEN : titleDE}
             </h1>
@@ -58,13 +57,6 @@ export const FitnessPostTemplate = ({
             ) : null}
           </div>
         </div>
-
-        <a onClick={(e) => {
-          e.preventDefault();
-          setLanguage(isEnglish ? 'DE' : 'EN')
-        }}>
-          { isEnglish ? 'Show in Deutsch' : 'Show in English' }
-        </a>
         
         <div className="comment-section">
         </div>
@@ -94,8 +86,6 @@ FitnessPostTemplate.propTypes = {
 
 const FitnessPost = ({ data }) => {
   const { markdownRemark: post } = data
-
-  console.log('markdownRemark', data.markdownRemark)
 
   return (
     <Layout>

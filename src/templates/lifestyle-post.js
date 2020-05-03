@@ -39,6 +39,7 @@ export const LifestylePostTemplate = ({
       <div className="container content">
         <div>
           <div className="column-blog is-10 is-offset-1">
+          <Link className="link-to-blog-overview" to="/lifestyle/">{isEnglish ? "Back to lifestyle overview" : "Zurück zur Lifestyle-Übersicht"}</Link>
             <h1 className="title">
               {isEnglish ? titleEN : titleDE}
             </h1>
@@ -58,13 +59,6 @@ export const LifestylePostTemplate = ({
             ) : null}
           </div>
         </div>
-
-        <a onClick={(e) => {
-          e.preventDefault();
-          setLanguage(isEnglish ? 'DE' : 'EN')
-        }}>
-          { isEnglish ? 'Show in Deutsch' : 'Show in English' }
-        </a>
         
         <div className="comment-section">
         </div>
@@ -95,7 +89,6 @@ LifestylePostTemplate.propTypes = {
 const LifestylePost = ({ data }) => {
   const { markdownRemark: post } = data
 
-  console.log('markdownRemark', data.markdownRemark)
 
   return (
     <Layout>

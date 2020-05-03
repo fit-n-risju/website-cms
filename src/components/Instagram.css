@@ -5,6 +5,8 @@
 
   .insta-button {
     margin-bottom: 40px;
+    padding: 14px 16px;
+    display: inline-block;
   }
 
   @media screen and (max-width: 800px) {

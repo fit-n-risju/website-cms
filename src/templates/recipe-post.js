@@ -9,20 +9,24 @@ import Content, { HTMLContent } from '../components/Content'
 import "./blog.css"
 import ImageHeader from "../components/ImageHeader"
 import { DiscussionEmbed } from "disqus-react"
+import Ingredients from "../components/Ingredients"
 
 import { useLanguage } from '../components/LanguageProvider'
 
 export const RecipePostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   titleEN,
   titleDE,
   featuredimage,
   helmet,
-  bodyEN,
-  bodyDE,
+  introEN,
+  ingredientlistEN,
+  instructionsEN,
+  introDE,
+  ingredientlistDE,
+  instructionsDE,
   date,
   id,
 }) => {
@@ -39,11 +43,15 @@ export const RecipePostTemplate = ({
       <div className="container content">
         <div>
           <div className="column-blog is-10 is-offset-1">
+            <Link className="link-to-blog-overview" to="/recipes/">{isEnglish ? "Back to recipe overview" : "Zurück zur Rezept-Übersicht"}</Link>
             <h1 className="title">
               {isEnglish ? titleEN : titleDE}
             </h1>
-            <ReactMarkdown source={isEnglish ? bodyEN : bodyDE} />
-            <PostContent content={content} />
+            <ReactMarkdown source={isEnglish ? introEN : introDE} />
+            <h2>{isEnglish ? "Ingredients for 2 people" : "Zutaten für 2 Personen"}</h2>
+            <Ingredients ingredients={isEnglish ? ingredientlistEN : ingredientlistDE}/>
+            <h2>{isEnglish ? "Instructions" : "Arbeitsschritte"}</h2>
+            <ReactMarkdown className="recipe-steps" source={isEnglish ? instructionsEN : instructionsDE} />
             {tags && tags.length ? (
               <div>
                 <h4>Tags</h4>
@@ -58,13 +66,6 @@ export const RecipePostTemplate = ({
             ) : null}
           </div>
         </div>
-
-        <a onClick={(e) => {
-          e.preventDefault();
-          setLanguage(isEnglish ? 'DE' : 'EN')
-        }}>
-          { isEnglish ? 'Show in Deutsch' : 'Show in English' }
-        </a>
         
         <div className="comment-section">
         </div>
@@ -94,8 +95,6 @@ RecipePostTemplate.propTypes = {
 
 const RecipePost = ({ data }) => {
   const { markdownRemark: post } = data
-
-  console.log('markdownRemark', data.markdownRemark)
 
   return (
     <Layout>

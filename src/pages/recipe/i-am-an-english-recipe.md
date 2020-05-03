@@ -6,7 +6,9 @@ date: 2020-05-02T23:32:44.209Z
 descriptionEN: This is an English recipe description.
 descriptionDE: Dies ist eine deutsche Rezept-Beschreibung.
 featuredimage: /img/chemex.jpg
-bodyEN: >-
+introEN: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet magna eget erat varius, eget gravida mauris malesuada. Maecenas placerat sem vel lobortis tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum pretium libero, quis sodales neque cursus at. Sed ligula risus, ullamcorper vel consectetur eget, cursus ut ex. In aliquet risus eu tincidunt suscipit. Vivamus ipsum dui, consectetur ut velit id, bibendum vehicula nisl.
+instructionsEN: >-
   1. In aliquet risus eu tincidunt suscipit. 
 
   2. Vivamus ipsum dui, consectetur ut velit id, bibendum vehicula nisl. Donec hendrerit mi sit amet libero suscipit malesuada. Integer in dolor lobortis, condimentum velit ut, tristique risus. 
@@ -21,7 +23,9 @@ ingredientlistEN:
     ingredient: food
   - amount: "3"
     ingredient: Apples
-bodyDE: >-
+introDE: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquet magna eget erat varius, eget gravida mauris malesuada. Maecenas placerat sem vel lobortis tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum pretium libero, quis sodales neque cursus at. Sed ligula risus, ullamcorper vel consectetur eget, cursus ut ex. In aliquet risus eu tincidunt suscipit. Vivamus ipsum dui, consectetur ut velit id, bibendum vehicula nisl.
+instructionsDE: >-
   1. Donec bibendum pretium libero, quis sodales neque cursus at. 
 
   2. Sed ligula risus, ullamcorper vel consectetur eget, cursus ut ex. In aliquet risus eu tincidunt suscipit. 

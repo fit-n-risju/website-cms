@@ -81,3 +81,16 @@
     height: 30px;
     width: 100%;
 }
+
+.recipe-steps li {
+    margin-bottom: 10px;
+}
+
+.ingredient {
+    padding: 5px 10px;
+}
+
+.link-to-blog-overview {
+    padding-bottom: 10px;
+    display: inline-block;
+}
