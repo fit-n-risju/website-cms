@@ -7,48 +7,58 @@ import { useLanguage } from '../components/LanguageProvider'
 
 const Brands = ({ data }) => {
 
-    const { isEnglish, setLanguage } = useLanguage();
+    const { isEnglish } = useLanguage();
   
-      const { edges: posts } = data.allMarkdownRemark
+      const { edges: posts } = data.allMarkdownRemark;
+      // Allow only one page in the CMS
+      const brandData = posts[0].node.frontmatter;
+
+      console.log(brandData)
+
   
       return (
-        <div className="content columns">
-          {posts &&
-            posts.map(({ node: post }) => (
-              <div className="column" key={post.id}>
-                  <div className="featured-thumbnail">
-                    {post.frontmatter.featuredimage ? (
-                        <PreviewCompatibleImage
-                          imageInfo={{
-                            image: post.frontmatter.featuredimage,
-                            alt: `featured image thumbnail for post ${post.frontmatter.titleEN}`,
-                          }}
-                        />
-                    ) : null}
-                    </div>
-                    <div className="preview-content">
-                    <p className="post-meta">
-                      <Link
-                        className="title"
-                        to={post.fields.slug}
-                      >
-                        {isEnglish ? post.frontmatter.titleEN : post.frontmatter.titleDE}
-                      </Link>
-                      <span className="subtitle">
-                        { new Date(post.frontmatter.date).toLocaleString(isEnglish ? 'en-US' : 'de-DE', { year: 'numeric', month: 'long', day: 'numeric' }) }
-                      </span>
-                    </p>
-                  <p>
-                    {isEnglish ? post.frontmatter.descriptionEN : post.frontmatter.descriptionDE}
-                    <br />
-                    <br />
-                    <Link className="button" to={post.fields.slug}>
-                      {isEnglish ? "Keep Reading →" : "Weiterlesen →"}
-                    </Link>
-                  </p>
-                  </div>
-              </div>
-            ))}
+        <div className="content">
+            <div className="detail-row">
+                <div className="detail-column">
+                <div>
+                    <PreviewCompatibleImage
+                        imageInfo={{
+                        image: brandData.logo1,
+                        alt: `${brandData.brand1de} logo`,
+                        }}
+                    />
+                </div>
+                <p>
+                    {isEnglish ? brandData.brand1en : brandData.brand1de}
+                </p>
+                </div>
+                <div className="detail-column">
+                <div>
+                    <PreviewCompatibleImage
+                        imageInfo={{
+                        image: brandData.logo2,
+                        alt: `${brandData.brand1de} logo`,
+                        }}
+                    />
+                </div>
+                <p>
+                    {isEnglish ? brandData.brand2en : brandData.brand2de}
+                </p>
+                </div>
+                <div className="detail-column">
+                <div>
+                    <PreviewCompatibleImage
+                        imageInfo={{
+                        image: brandData.logo3,
+                        alt: `${brandData.brand2de} logo`,
+                        }}
+                    />
+                </div>
+                <p>
+                    {isEnglish ? brandData.brand3en : brandData.brand3de}
+                </p>
+                </div>
+        </div>
         </div>
       )
   }
@@ -64,7 +74,7 @@ const Brands = ({ data }) => {
   export default () => (
     <StaticQuery
       query={graphql`
-        query FitnessRollQuery {
+        query BrandListQuery {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
             filter: { frontmatter: { templateKey: { eq: "brands" } } }

@@ -74,7 +74,7 @@ collections:
     label: "Markenlogos"
     folder: "src/pages/brands"
     create: true
-    slug: "{{fields.brand}}"
+    slug: "{{fields.templateKey}}"
     fields: 
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "brands"}
       - {label: "Logo Marke 1", name: "logo1", widget: image, required: false}
