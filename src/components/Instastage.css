@@ -1,0 +1,54 @@
+.insta-stage {
+    height: 400px;
+    display: flex;
+  }
+  
+  .insta-pic {
+    width: 50%;
+    margin: 0 auto;
+    background-image: url("/img/Freebie.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+  }
+
+  .insta-content {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px 200px 20px 100px;
+  }
+
+  .insta-button-new {
+    margin-top: 20px;
+    padding: 14px 16px;
+    display: inline-block;
+  }
+
+  @media screen and (max-width: 800px) {
+    .insta-button-new {
+      width: 100%;
+      margin-top: 20px;
+    }
+  }
+
+  @media screen and (max-width: 1300px) {
+    .insta-pic {
+        background-position: center;
+        background-size: cover;
+    }
+    .insta-content {
+      padding: 20px 20px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+  .insta-stage {
+    height: 500px;
+  }
+}

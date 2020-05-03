@@ -11,6 +11,7 @@ import Instagram from "../components/Instagram"
 import ContactForm from "../components/ContactForm"
 import Divider from "../components/Divider"
 import Brands from "../components/Brands"
+import Instastage from "../components/Instastage"
 
 export const IndexPageTemplate = ({
   image,
@@ -28,7 +29,7 @@ export const IndexPageTemplate = ({
     <DetailSelector />
     <Brands />
     <Divider />
-    <Instagram />
+    <Instastage />
     <ContactForm />
   </div>
 )
