@@ -6,8 +6,6 @@ const FitnessPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
   return (
     <FitnessPostTemplate
-      content={widgetFor('body')}
-      description={entry.getIn(['data', 'description'])}
       tags={tags && tags.toJS()}
       titleEN={entry.getIn(["data", "titleEN"])}
       titleDE={entry.getIn(["data", "titleDE"])}

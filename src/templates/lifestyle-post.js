@@ -13,9 +13,7 @@ import { DiscussionEmbed } from "disqus-react"
 import { useLanguage } from '../components/LanguageProvider'
 
 export const LifestylePostTemplate = ({
-  content,
   contentComponent,
-  description,
   tags,
   titleEN,
   titleDE,
@@ -44,7 +42,6 @@ export const LifestylePostTemplate = ({
               {isEnglish ? titleEN : titleDE}
             </h1>
             <ReactMarkdown source={isEnglish ? bodyEN : bodyDE} />
-            <PostContent content={content} />
             {tags && tags.length ? (
               <div>
                 <h4>Tags</h4>

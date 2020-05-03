@@ -14,7 +14,6 @@ import Ingredients from "../components/Ingredients"
 import { useLanguage } from '../components/LanguageProvider'
 
 export const RecipePostTemplate = ({
-  content,
   contentComponent,
   tags,
   titleEN,
