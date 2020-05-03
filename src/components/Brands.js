@@ -98,20 +98,8 @@ const Brands = ({ data }) => {
                         }
                     }
                 }
-                  logo2 {
-                    childImageSharp {
-                        fluid(maxWidth: 120, quality: 100) {
-                            ...GatsbyImageSharpFluid
-                        }
-                    }
-                }
-                  logo3 {
-                    childImageSharp {
-                        fluid(maxWidth: 120, quality: 100) {
-                            ...GatsbyImageSharpFluid
-                        }
-                    }
-                }
+                  logo2
+                  logo3
                   brand1de
                   brand2de
                   brand3de

@@ -77,6 +77,7 @@ collections:
     slug: "{{fields.templateKey}}"
     fields: 
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "brands"}
+      - {label: "Logos (Up to 3 are shown)", name: "logos", widget: "list", fields: [{ label: "Logo Marke", name: "image", widget: "image"}, {label: "Beschreibung Marke DE", name: "brandDE", widget: string, default: ""}, {label: "Beschreibung Marke EN", name: "brandEN", widget: string, default: ""}, {label: "Beschreibung Marke Link", name: "brandLink", widget: string, default: ""}]}
       - {label: "Logo Marke 1", name: "logo1", widget: image, required: false, default: " "}
       - {label: "Beschreibung Marke 1 DE", name: "brand1de", widget: string, required: false, default: " "}
       - {label: "Beschreibung Marke 1 EN", name: "brand1en", widget: string, required: false, default: " "}
