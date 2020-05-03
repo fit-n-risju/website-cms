@@ -9,7 +9,6 @@ const LifestylePostPreview = ({ entry, widgetFor }) => {
       tags={tags && tags.toJS()}
       titleEN={entry.getIn(["data", "titleEN"])}
       titleDE={entry.getIn(["data", "titleDE"])}
-      featuredimage={entry.getIn(["data", "featuredimage"])}
       bodyEN={entry.getIn(["data", "bodyEN"])}
       bodyDE={entry.getIn(["data", "bodyDE"])}
     />

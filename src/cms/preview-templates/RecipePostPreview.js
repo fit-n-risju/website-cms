@@ -9,7 +9,6 @@ const RecipePostPreview = ({ entry, widgetFor }) => {
       tags={tags && tags.toJS()}
       titleEN={entry.getIn(["data", "titleEN"])}
       titleDE={entry.getIn(["data", "titleDE"])}
-      featuredimage={entry.getIn(["data", "featuredimage"])}
       introEN={entry.getIn(["data", "introEN"])}
       introDE={entry.getIn(["data", "introDE"])}
       ingredientlistDE={entry.getIn(["data", "ingredientlistDE"])}
