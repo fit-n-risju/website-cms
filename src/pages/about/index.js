@@ -10,6 +10,7 @@ import Bio from "../../components/Bio"
 import QuoteBeige from '../../components/QuoteBeige'
 import { useLanguage } from '../../components/LanguageProvider'
 import Divider from "../../components/Divider"
+import Instastage from "../../components/Instastage"
 
 export const AboutPage = ({
   image,
@@ -39,6 +40,7 @@ return(
       <Quote />
       <Bio />
       <Divider />
+      <Instastage />
       <QuoteBeige />
   </Layout>
 )

@@ -1,6 +1,6 @@
 .contact-stage {
     display: flex;
-    background-color: #D0B8AC;
+    background-color: #D6D6D6;
     padding: 20px 0;
   }
 
@@ -8,7 +8,7 @@
     margin: 5px 0 0 0;
     background-color: #ffffff;
     border: 1px solid #ffffff;
-    color: #22223b;
+    color: #37323E;
   }
 
   form {

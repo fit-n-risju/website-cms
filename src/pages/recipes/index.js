@@ -6,6 +6,7 @@ import Layout from '../../components/Layout'
 import ImageHeader from "../../components/ImageHeader"
 import RecipeRoll from "../../components/RecipeRoll"
 import { useLanguage } from '../../components/LanguageProvider'
+import Recipequote from "../../components/Recipequote"
 
 export const RecipePage = ({
     image,
@@ -32,6 +33,7 @@ export const RecipePage = ({
         />
         </Helmet>
         <ImageHeader headerImage="/img/recipe-stage.jpg" headline={headline} subhead={subhead} />
+        <Recipequote />
         <RecipeRoll />
     </Layout>
   )

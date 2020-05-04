@@ -2,12 +2,12 @@ import React from "react"
 import "./ImageHeader.css"
 import { useLanguage } from '../components/LanguageProvider'
 
-const ImageHeader = ({headerImage, headline, subhead}) => {
+const ImageHeader = ({headerImage, headline, subhead, isRecipePhoto}) => {
 
   const { isEnglish, setLanguage } = useLanguage();
 
 return(
-<div className="lifestyle-stage" style={{ backgroundImage: `url(${headerImage})` }}>
+<div className={isRecipePhoto ? "recipe-photo" : "lifestyle-stage"} style={{ backgroundImage: `url(${headerImage})` }}>
     <div className="content">
       <h1>{headline}</h1>
       <p>{subhead}</p>

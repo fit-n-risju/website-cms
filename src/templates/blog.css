@@ -12,7 +12,7 @@
 .blog h2 {
     font-size: 20px;
     padding: 20px 0 10px 0;
-    color: #F96F5D;
+    color: #A3BA91;
 }
 
 .blog h3 {
@@ -20,13 +20,13 @@
     text-align: left;
     font-weight: bold;
     padding: 20px 0 10px 0;
-    color: #F96F5D;
+    color: #A3BA91;
 }
 
 .blog h4 {
     font-size: 15;
     padding: 20px 0 10px 0;
-    color: #F96F5D;
+    color: #A3BA91;
 }
 
 .blog p {
@@ -39,7 +39,7 @@
 }
 
 .blog a:hover {
-    color: #F96F5D;
+    color: #A3BA91;
     text-decoration: underline;
 }
 
@@ -69,7 +69,7 @@
     padding: 10px 20px;
     opacity: 0.8;
     font-size: 25px;
-    border-left: 1px solid #F96F5D;
+    border-left: 1px solid #A3BA91;
     margin: 5px 0 5px 5px;
 }
 

@@ -44,7 +44,7 @@ export const RecipePostTemplate = ({
       </Helmet>
 
       <div className="blog-header-image">
-        <ImageHeader headerImage={featuredimage.childImageSharp.fluid.src} />
+        <ImageHeader headerImage={featuredimage.childImageSharp.fluid.src} isRecipePhoto={true} />
       </div>
       <div className="container content">
         <div>

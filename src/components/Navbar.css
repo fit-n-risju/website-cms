@@ -1,6 +1,6 @@
 .header {
     overflow: hidden;
-    background-color: #F96F5D;
+    background-color: #A3BA91;
     padding: 10px 0;
     height: 45px;
   }
@@ -21,13 +21,17 @@
     border-radius: 4px;
   }
 
+  .header .language {
+    padding: 8px;
+  }
+
   .header a:not(.clickable-logo):not(.language):hover {
     background-color: #ffffff;
-    color: #F96F5D;
+    color: #A3BA91;
   }
   
   .header a.active {
-    background-color: #F96F5D;
+    background-color: #A3BA91;
     color: white;
   }
   
