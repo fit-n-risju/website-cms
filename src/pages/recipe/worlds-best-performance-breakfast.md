@@ -20,14 +20,17 @@ ingredientlistEN:
   - amount: "1 tsp  "
     ingredient: Psyllium husks
   - ingredient: Cinnamon
-    amount: breeze
-  - amount: "1 - 2  "
+    amount: breeze of
+  - amount: some
     ingredient: fresh fruits of your choice (e.g. kiwi, banana, prune, strawberry,
       blueberry...)
+  - ingredient: Water or Milk
+    amount: some
 instructionsEN: Take a large cereal bowl and fill it with the protein powder,
-  the oatmeal, and the seeds. Mix these ingredients and add water until you have
-  a creamy mass. Next, cut your fruit into small pieces and add it to the bowl.
-  Finally, you make a breeze of cinnamon over the food - ready and enjoy.
+  the oatmeal, and the seeds. Mix these ingredients and add water or milk until
+  you have a creamy mass. Remember that milk has more calories than water! Next,
+  cut your fruit into small pieces and add it to the bowl. Finally, you make a
+  breeze of cinnamon over the food - ready and enjoy.
 introDE: "Hier habt ihr ein energiereiches und gesundes Frühstück mit
   Haferflocken. Eine kurze Bemerkung zu Haferflocken: In Haferflocken sind viele
   gesunde Inhaltsstoffe, wie zum Beispiel Ballaststoffe und Eisen. Dazu noch
@@ -44,13 +47,16 @@ ingredientlistDE:
     ingredient: Flohsamen
   - amount: Eine Brise
     ingredient: Zimt
-  - amount: 1 - 2
+  - amount: ein paar
     ingredient: Früchte nach Wahl (Kiwi, Banane, Pflaume, Erdbeeren, Heidelbeeren...)
+  - amount: etwas
+    ingredient: Wasser oder Milch
 instructionsDE: Nehmt euch eine große Müslischüssel und füllt diese mit dem
   Eiweißpulver, den Haferflocken, und den Samen. Vermischt diese Zutaten und
-  gebt dann Wasser dazu, bis ihr eine cremige Masse habt. Als nächstes schneidet
-  ihr euer Obst in kleine Stücke und gebt es in die Schüssel dazu. Als letztes
-  macht ihr noch eine Brise Zimt über das Essen - fertig und genießen.
+  gebt dann Wasser oder Milch dazu, bis ihr eine cremige Masse habt. Bedenkt,
+  dass Milch mehr Kalorien als Wasser hat! Als nächstes schneidet ihr euer Obst
+  in kleine Stücke und gebt es in die Schüssel dazu. Als letztes macht ihr noch
+  eine Brise Zimt über das Essen - fertig und genießen.
 tags:
   - Breakfast Oats
 ---
