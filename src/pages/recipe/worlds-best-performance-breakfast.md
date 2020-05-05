@@ -3,8 +3,8 @@ templateKey: recipe-post
 titleEN: "World's best performance breakfast "
 titleDE: Das weltbeste Sportler - Frühstück
 date: 2020-05-04T16:06:04.839Z
-descriptionEN: Breakfast Chris
-descriptionDE: Frühstück Chris
+descriptionEN: The perfect breakfast, start the day right!
+descriptionDE: "Das perfekte Frühstück, starte den Tag richtig! "
 featuredimage: /img/breakfast.png
 introEN: "Here you have an energetic and healthy breakfast with oatmeal. A quick
   note about oatmeal: There are many healthy ingredients in oatmeal, such as
