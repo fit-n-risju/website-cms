@@ -1,7 +1,7 @@
 ---
 templateKey: recipe-post
 titleEN: Homemade mexican rice with vegetables
-titleDE: " Quantity as needed"
+titleDE: Selbstgemachter mexikanischer Reis mit Gemüse
 date: 2020-05-05T14:57:20.016Z
 descriptionEN: " A very simple but healthy meal is our homemade mexican rice with vegetables."
 descriptionDE: "Ein sehr simples aber dennoch gesundes Essen ist unser
