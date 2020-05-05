@@ -55,7 +55,7 @@ ingredientlistDE:
     ingredient: Paprika
   - amount: "1"
     ingredient: Zucchini
-  - amount: eine Hand voll
+  - amount: eine handvoll
     ingredient: Mungobohnensprossen
   - amount: 265g
     ingredient: Kichererbsen
