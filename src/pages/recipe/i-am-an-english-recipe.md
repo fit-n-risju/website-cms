@@ -9,7 +9,7 @@ descriptionEN: Coconut milk is a great alternative to tomato sauce or soy cream.
 descriptionDE: "Kokosnussmilch ist eine super alternative zu Tomatensauce oder
   Sojasahne. Dies ist eines unserer Lieblingsessen. Es ist schnell zubereitet,
   abwechslungsreich und nicht teuer. "
-featuredimage: /img/chemex.jpg
+featuredimage: /img/test_curro_kokos.png
 introEN: Coconut milk is a great alternative to tomato sauce or soy cream. This
   is one of our favorite meal. It is prepared quickly, varied and not expensive.
 ingredientlistEN:
