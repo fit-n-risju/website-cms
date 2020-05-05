@@ -16,7 +16,7 @@ ingredientlistEN:
   - amount: "350g "
     ingredient: rice
   - amount: "2"
-    ingredient: peppers
+    ingredient: bell peppers
   - amount: "1"
     ingredient: zucchini
   - amount: a hand full
