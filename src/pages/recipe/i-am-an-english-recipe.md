@@ -1,6 +1,6 @@
 ---
 templateKey: recipe-post
-titleEN: Sliced coconut milk
+titleEN: Sliced with coconut milk
 titleDE: Kokosnussmilch-Geschnetzeltes
 date: 2020-05-02T23:32:44.209Z
 descriptionEN: Coconut milk is a great alternative to tomato sauce or soy cream.
