@@ -1,0 +1,28 @@
+.privacy h1 {
+    font-size: 30px;
+    padding: 10px 0;
+    padding-top: 50px;
+}
+
+.privacy h2 {
+    font-size: 25px;
+    padding: 20px 0;
+}
+
+.privacy h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px 0;
+}
+
+.privacy p {
+    line-height: 1.2;
+    padding: 10px 0;
+}
+
+.privacy li {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}

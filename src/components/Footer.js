@@ -18,6 +18,7 @@ return(
     </div>
   <p>{isEnglish ? "Icons made by" : "Icons von"} <a href="https://www.flaticon.com/authors/freepik" _target="blank">Freepik</a> {isEnglish ? "from" : "von"} www.flaticon.com</p>
   <p><Link to="/imprint">{isEnglish ? "Imprint" : "Impressum"}</Link></p>
+  <p><Link to="/privacy">{isEnglish ? "Privacy Policy" : "Datenschutzerklärung"}</Link></p>
 </div>
 )
 }
