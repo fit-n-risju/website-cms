@@ -7,9 +7,9 @@ descriptionEN: "We tested for your the most popular proteins and evaluatedthem. 
 descriptionDE: "Wir haben für euch die gängigsten Proteine getestet und bewertet. "
 featuredimage: /img/chemex.jpg
 bodyEN: >-
-  
-
-  Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine Herausforderung. Aus diesem Grund möchten wir auf die besten (uns bekannten) Eiweiße eingehen und euch die Vor- und Nachteile aufzeigen.
+  Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
+  Herausforderung. Aus diesem Grund möchten wir auf die besten (uns bekannten)
+  Eiweiße eingehen und euch die Vor- und Nachteile aufzeigen.
 
 
   Vegane Eiweiße können aus verschiedenen Quellen gewonnen werden. Dazu gehören zum Beispiel Soja, Hanf, Erbsen und Reis.
@@ -30,7 +30,7 @@ bodyEN: >-
   **Kommen wir nun zu der Beurteilung von der von uns getestenen veganen Proteine:**
 
 
-  1. **Vegan Bland von MyProtein**
+  1. **Vegan Blend von MyProtein**
 
      ![MyProtein](/img/vegan-blend-myprotein.png "Vegan Blend from MyProtein")
 
