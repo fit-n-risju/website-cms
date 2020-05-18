@@ -1,9 +1,9 @@
 ---
 templateKey: fitness-post
-titleEN: Vegan protein - Tests und recommendations
-titleDE: Veganes Proteinpulver - Tests und Empfehlungen
+titleEN: VEGAN PROTEIN - TESTS AND RECOMMENDATIONS
+titleDE: VEGANES PROTEINSPULVER - TESTS UND EMPFEHLUNGEN
 date: 2020-05-18T11:42:13.161Z
-descriptionEN: "We tested for your the most popular proteins and evaluatedthem. "
+descriptionEN: "We tested for you the most popular proteins and evaluated them. "
 descriptionDE: "Wir haben für euch die gängigsten Proteine getestet und bewertet. "
 featuredimage: /img/chemex.jpg
 bodyEN: >-
@@ -15,21 +15,19 @@ bodyEN: >-
   ihr beim Kauf achten müsst.
 
 
-  **Auf was muss geachtet werden?**
-
-
+  **AUF WAS MUSS GEACHTET WERDEN?**
 
 
   Die Behauptung, dass vegane Ernährung und Muskelaufbau nicht zusammenpassen, haben viele bekannte Sportler widerlegt. Auch wir haben selbst keinen Unterschied bzgl. Muskelwachstum und Kraft feststellen können.
 
 
-  **Welche Eiweißquellen sind am besten?**
+  **WELCHE EIWEIßQUELLEN SIND AM BESTEN?**
 
 
   Vegane Eiweiße können aus verschiedenen Quellen gewonnen werden. Dazu gehören zum Beispiel Reis-, Soja-, Hanf-, Erbsen-, Chia-, Sonnenblumen- und Kürbiskernkerne.
 
 
-  **Kommen wir nun zu der Beurteilung von der von uns getestenen veganen Proteine:**
+  **Kommen wir nun zu der Beurteilung von den von uns getestenen veganen Proteine:**
 
 
   1. **Vegan Blend von MyProtein**
@@ -70,6 +68,9 @@ bodyEN: >-
 
 
   **3. Nu3 - Vegan Protein 3K** 
+
+
+  ![Nu3](/img/nu3-vegan-protein-3k.png "Nu3")
 
 
   * Proteinquelle 		77,5% Erbsenproteinisolat, 5% Hanf Proteinpulver,\
@@ -118,6 +119,9 @@ bodyEN: >-
 
 
   Wir werden im Laufe der Zeit noch weitere Proteine testen und diesen Artikel mit neuen Berichten erweitern.
+
+
+  **FAZIT**
 bodyDE: "Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
   Herausforderung. Aus diesem Grund möchten wir auf die besten (uns bekannten)
   Eiweiße eingehen und euch die Vor- und Nachteile aufzeigen.
@@ -181,6 +185,8 @@ bodyDE: "Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
   -\tDavon Zucker\t\t0 g\r
 
   -\tGeschmack: \t\t8 von 10\r
+
+
 
   \n"
 ---
