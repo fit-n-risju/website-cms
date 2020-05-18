@@ -11,8 +11,8 @@ bodyEN: >-
   Herausforderung. Der leider noch sehr oft sandige Geschmack, macht es vielen
   schwer, ein leckeres veganes Pulver zu finden. Aus diesem Grund möchten wir
   neben der Beurteilung der Inhaltsstoffe und des Preises auch berichten, welche
-  Proteine auch geschmacklich empfehlenswert sind. Vorab erläutern wir, auf was
-  ihr beim Kauf achten müsst.
+  Proteine geschmacklich empfehlenswert sind. Vorab erläutern wir, auf was ihr
+  beim Kauf achten müsst.
 
 
   **AUF WAS MUSS GEACHTET WERDEN?**
