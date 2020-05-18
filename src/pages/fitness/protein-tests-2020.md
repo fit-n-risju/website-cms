@@ -1,7 +1,7 @@
 ---
 templateKey: fitness-post
-titleEN: Protein-Tests 2020
-titleDE: Protein-Tests 2020
+titleEN: Vegan protein - Tests und recommendations
+titleDE: Veganes Proteinpulver - Tests und Empfehlungen
 date: 2020-05-18T11:42:13.161Z
 descriptionEN: "We tested for your the most popular proteins and evaluatedthem. "
 descriptionDE: "Wir haben für euch die gängigsten Proteine getestet und bewertet. "
@@ -9,27 +9,24 @@ featuredimage: /img/chemex.jpg
 bodyEN: >-
   Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
   Herausforderung. Der leider noch sehr oft sandige Geschmack, macht es vielen
-  schwer, ein leckeres veganes Pulver zu finden. Aus diesem Grund möchten neben
-  der Beurteilung der Inhaltsstoffe und des Preises auch berichten, welche
-  Proteine auch geschmacklich empfehlenswert sind. 
+  schwer, ein leckeres veganes Pulver zu finden. Aus diesem Grund möchten wir
+  neben der Beurteilung der Inhaltsstoffe und des Preises auch berichten, welche
+  Proteine auch geschmacklich empfehlenswert sind. Vorab erläutern wir, auf was
+  ihr beim Kauf achten müsst.
 
 
-  **Aus was muss geachtet werden?**
+  **Auf was muss geachtet werden?**
 
 
-  Vegane Eiweiße können aus verschiedenen Quellen gewonnen werden. Dazu gehören zum Beispiel Soja, Hanf, Erbsen und Reis.
 
 
   Die Behauptung, dass vegane Ernährung und Muskelaufbau nicht zusammenpassen, haben viele bekannte Sportler widerlegt. Auch wir haben selbst keinen Unterschied bzgl. Muskelwachstum und Kraft feststellen können.
 
 
-  Der größte Nachteil von veganen Proteinpulvern ist der Geschmack. Daher liegt neben den Inhaltsstoffen, unser Fokus auf der Bewertung des Geschmackes. Da wir es taglich in unser Frühstück mischen, legen wir auch hier Wert darauf.
-
-
   **Welche Eiweißquellen sind am besten?**
 
 
-  **…**
+  Vegane Eiweiße können aus verschiedenen Quellen gewonnen werden. Dazu gehören zum Beispiel Reis-, Soja-, Hanf-, Erbsen-, Chia-, Sonnenblumen- und Kürbiskernkerne.
 
 
   **Kommen wir nun zu der Beurteilung von der von uns getestenen veganen Proteine:**
@@ -107,7 +104,7 @@ bodyEN: >-
   **5. Proteinworks – Vegan Protein** 
 
 
-  * Proteinquelle 		Sojaproteinisolat, Erbsenproteinisolat, Hanfprotein, Bio-                             Sonnenblumenprotein, Protein aus braunem Reis
+  * Proteinquelle 		Sojaproteinisolat, Erbsenproteinisolat, Hanfprotein, Bio-                                               Sonnenblumenprotein, Protein aus braunem Reis
 
   * Brennwert		339 kcal
 
