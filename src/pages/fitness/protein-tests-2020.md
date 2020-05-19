@@ -5,7 +5,7 @@ titleDE: VEGANES PROTEINSPULVER - TESTS UND EMPFEHLUNGEN
 date: 2020-05-18T11:42:13.161Z
 descriptionEN: "We tested for you the most popular proteins and evaluated them. "
 descriptionDE: "Wir haben für euch die gängigsten Proteine getestet und bewertet. "
-featuredimage: /img/chemex.jpg
+featuredimage: /img/protein.png
 bodyEN: >-
   Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
   Herausforderung. Der leider noch sehr oft sandige Geschmack, macht es vielen
