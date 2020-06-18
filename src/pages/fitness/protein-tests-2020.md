@@ -8,17 +8,17 @@ descriptionDE: "Wir haben für euch die gängigsten Proteine getestet und bewert
 featuredimage: /img/protein.png
 bodyEN: >-
   Die Suche nach dem richtigen veganen Eiweiß ist für viele noch eine
-  Herausforderung. Der leider noch sehr oft sandige Geschmack, macht es vielen
-  schwer, ein leckeres veganes Pulver zu finden. Aus diesem Grund möchten wir
-  neben der Beurteilung der Inhaltsstoffe und des Preises auch berichten, welche
-  Proteine geschmacklich empfehlenswert sind. Vorab erläutern wir, auf was ihr
-  beim Kauf achten müsst.
+  Herausforderung. 
+
+  Da sich immer mehr Menschen für eine pflanzliche Ernährung entscheiden, ist die Auswahl an veganen Proteinprodukten größer als je zuvor.
+
+  Der leider noch sehr oft sandige Geschmack, macht es vielen schwer, ein leckeres veganes Pulver zu finden. Aus diesem Grund möchten wir neben der Beurteilung der Inhaltsstoffe und des Preises auch berichten, welche Proteine geschmacklich empfehlenswert sind. Vorab erläutern wir, auf was ihr beim Kauf achten müsst.
 
 
   **AUF WAS MUSS GEACHTET WERDEN?**
 
 
-  Die Behauptung, dass vegane Ernährung und Muskelaufbau nicht zusammenpassen, haben viele bekannte Sportler widerlegt. Auch wir haben selbst keinen Unterschied bzgl. Muskelwachstum und Kraft feststellen können.
+  Die Behauptung, dass vegane Ernährung und Muskelaufbau nicht zusammenpassen, haben viele bekannte Sportler widerlegt. Auch wir haben nach jahrelanger Supplementierung von Whey beim Umstieg auf vegane Produkte keinen Unterschied bzgl. Muskelwachstum und Kraft feststellen können. 
 
 
   **WELCHE EIWEIßQUELLEN SIND AM BESTEN?**
@@ -27,17 +27,17 @@ bodyEN: >-
   Vegane Eiweiße können aus verschiedenen Quellen gewonnen werden. Dazu gehören zum Beispiel Reis-, Soja-, Hanf-, Erbsen-, Chia-, Sonnenblumen- und Kürbiskernkerne.
 
 
-  **Kommen wir nun zu der Beurteilung von den von uns getestenen veganen Proteine:**
+  **BEURTEILUNG DER VON UNS GETESTETEN VEGANEN PROTEINE:**
 
 
   1. **Vegan Blend von MyProtein**
 
      ![MyProtein](/img/vegan-blend-myprotein.png "Vegan Blend from MyProtein")
 
-  Aufgrund des unschlagbaren Preises und den immer wieder vorhandenen Rabatten bei MyProtein haben wir lange Zeit dieses Eiweißpulver zu uns genommen. Die wichtigsten Angaben (pro 100g) im Überblick:
+  Aufgrund des unschlagbaren Preises und den immer wieder vorhandenen Rabatten bei MyProtein haben wir lange Zeit dieses Eiweißpulver supplementiert. Die wichtigsten Angaben (pro 100g) im Überblick:
 
 
-  * Proteinquelle Basis von Bohnen- und Erbsenprotein
+  * Proteinquelle Basis von Ackerbohnen- und Erbsenprotein
 
   * Brennwert      366 kcal
 
@@ -46,6 +46,14 @@ bodyEN: >-
   * Kohlenhydrate  14 g Davon Zucker   0,3 g
 
   * Geschmack:     7 von 10
+
+
+  Fazit: 
+
+  Neben verdauungsfördernden Ballaststoffen liefern Bohnen viel Eiweiß, wodurch sie sich besonders für eine vegetarische Ernährung eignen. 
+
+
+  Es enthält außerdem 5 g natürlich vorkommende BCAAs im optimalen Verhältnis von 2:1:1 zwischen Leucin, Isoleucin und Valin.
 
 
   **2. ESN - Pro Vegan Complex** 
