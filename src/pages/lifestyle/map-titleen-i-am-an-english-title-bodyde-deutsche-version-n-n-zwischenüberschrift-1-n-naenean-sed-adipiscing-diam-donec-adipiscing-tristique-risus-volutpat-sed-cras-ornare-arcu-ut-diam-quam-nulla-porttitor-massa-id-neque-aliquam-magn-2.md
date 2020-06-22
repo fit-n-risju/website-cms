@@ -5,9 +5,9 @@ titleEN: Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
 titleDE: Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
   Gesundheit und die Tiere achten, was kann ich machen?
 date: 2020-05-01T20:45:29.131Z
-descriptionEN: In diesem Artikel geben wir TIpps, wie ihr mit wenig Aufwand
+descriptionEN: In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand
   schon etwas Gutes tun könnt
-descriptionDE: In diesem Artikel geben wir TIpps, wie ihr mit wenig Aufwand
+descriptionDE: In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand
   schon etwas Gutes tun könnt
 featuredpost: true
 featuredimage: /img/30daysreplay-pr-marketing-ix6kysoeim4-unsplash.jpg
