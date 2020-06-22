@@ -15,7 +15,7 @@ bodyEN: >-
   ganzes Leben hat:
 
 
-  **„Man ist was man isst.“**
+  ## **„Man ist was man isst.“**
 
 
   In erster Linie verbindet man das „nur“ mit der eigenen Gesundheit. Man isst mehr Gemüse, verzichtet auf ungesunde Fette, Snacks und kocht öfter selbst, anstatt Fertigprodukte zu kaufen. Hier ist noch nicht die Rede von einer veganen Ernährung. Wenn das alles auch so geht, warum dann vegan leben?
@@ -24,13 +24,13 @@ bodyEN: >-
   Ganz einfach: Es gibt neben den einleuchtenden und von den Medien verbreiteten Tipps, sich gesund zu ernähren, auch noch Aspekte, die viele einfach oft nicht wahrhaben wollen, obwohl es Belege und Studien dazu gibt!
 
 
-  > **Zitat Dr. med. Heinrich:***„Die gesundheitlichen Schäden durch Fleisch wurden durch unzählige wissenschaftliche Studien offengelegt. 2015 haben die Experten der WHO (Weltgesundheitsorganisation) über 800 wissenschaftliche Studien zum Thema Fleisch ausgewertet und verarbeitetes Fleisch als „krebserregend“ eingestuft.“*
+  > ## **Zitat Dr. med. Heinrich:***„Die gesundheitlichen Schäden durch Fleisch wurden durch unzählige wissenschaftliche Studien offengelegt. 2015 haben die Experten der WHO (Weltgesundheitsorganisation) über 800 wissenschaftliche Studien zum Thema Fleisch ausgewertet und verarbeitetes Fleisch als „krebserregend“ eingestuft.“*
 
 
   ![](/img/gesundheitspyramide.png "Gesundheitspyramide")
 
 
-  **Warum ist Fleisch gesundheitsschädigend?**
+  ## **Warum ist Fleisch gesundheitsschädigend?**
 
 
   Die Wirtschaftstiere werden über die Zeit ihrer Aufzucht mit diversen Hormonen und anderen Medikamenten vollgepumpt, z.B. die Milchkuh, damit sie überhaupt Milch produziert, aber hierzu gleich mehr. Da die Tiere über Ihre kurze Lebensdauer mit dennoch vielen unnatürlichen Produkten versorgt werden, setzten sich diese Schadstoffe in Ihrem Gewebe und somit in dem Späteren Lebensmitte (Fleisch) ab und der Mensch nimmt dieses dann zu sich und somit auch die Schadstoffe.Zitat Dr. med. Heinrich ProVegan.onfo: *„Die Hormone, Tierproteine und gesättigten Fette in Fleisch und Milch sind eindeutig mit einem erhöhten Risiko für schwere chronische Erkrankungen wie Krebs, Diabetes, koronare Herzkrankheit, Bluthochdruck, Schlaganfall, Demenz usw. verbunden, die wiederum die häufigsten Todesursachen in den westlichen Industrienatio­nen darstellen. Selbst ein Fortschreiten durch Medikamente und Operationen bestenfalls nur verlangsamt wird, kann nachweislich nur durch eine fettarme vegane Ernährung gestoppt, ja sogar rückgängig gemacht werden.“*
@@ -52,7 +52,7 @@ bodyEN: >-
   Schon das Genie Albert Einstein sagte bereits vor Jahrzehnten:
 
 
-  > **„Nichts wird die Gesundheit der Menschen und die Chance auf ein Überleben auf der Erde so steigern wie der Schritt zur vegetarischen Ernährung.“**
+  > ## **„Nichts wird die Gesundheit der Menschen und die Chance auf ein Überleben auf der Erde so steigern wie der Schritt zur vegetarischen Ernährung.“**
 
 
   Diese Aussage traf Einstein ohne die Kenntnisse, die wir heute haben. Es wäre interessant, wie seine Aussage lauten würde, mit dem Wissensstand von heute. Ich lehne mich mal weit aus dem Fenster und behaupte, dass er dann das Wort vegetarisch durch vegan ersetzen würde.
