@@ -6,7 +6,7 @@ date: 2020-05-18T06:53:43.475Z
 descriptionEN: Here we want to tell you our reasons, why we live vegan
 descriptionDE: In diesem Artiekl wollen wir euch erzählen, was unsere Gründe
   sind vegan zu leben
-featuredimage: /img/chemex.jpg
+featuredimage: /img/vegan-liftz-htdsutq-op0-unsplash.jpg
 bodyEN: >-
   Warum einschränken, wenn man alles essen kann?Diese Frage stellen sich die
   meisten Menschen und haken somit schnell das Thema „vegan“ ab. Doch es ist
