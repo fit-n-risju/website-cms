@@ -9,7 +9,7 @@ descriptionEN: Coconut milk is a great alternative to tomato sauce or soy cream.
 descriptionDE: "Kokosnussmilch ist eine super alternative zu Tomatensauce oder
   Sojasahne. Dies ist eines unserer Lieblingsessen. Es ist schnell zubereitet,
   abwechslungsreich und nicht teuer. "
-featuredimage: /img/test_curro_kokos.png
+featuredimage: /img/tijana-drndarski-edj-bodzfx8-unsplash.jpg
 introEN: Coconut milk is a great alternative to tomato sauce or soy cream. This
   is one of our favorite meal. It is prepared quickly, varied and not expensive.
 ingredientlistEN:
@@ -30,8 +30,10 @@ ingredientlistEN:
   - amount: a package
     ingredient: soy chips (chicken style) (vegan & gluten-free)
 instructionsEN: >-
-  You can of course use any vegetable of your choice for the meal. We have
-  decided for the above ingrediens.
+  ![](/img/dan-gold-4_jhdo54byg-unsplash.jpg)
+
+
+  You can of course use any vegetable of your choice for the meal. We have decided for the above ingrediens.
 
 
   1. Set up water for the rice
@@ -45,6 +47,9 @@ instructionsEN: >-
   5. Then wash the mung bean sprouts well under running water and add them to the pan.
 
   6. Finally, add the coconut milk and let everything simmer for about 10 mnutes, season with spices of your choice.
+
+
+  ![](/img/img_8165.jpg)
 introDE: Kokosnussmilch ist eine super alternative zu Tomatensauce oder
   Sojasahne. Dies ist eines unserer Lieblingsessen. Es ist schnell zubereitet,
   abwechslungsreich und nicht teuer.
@@ -66,8 +71,10 @@ ingredientlistDE:
   - amount: "1 Packung "
     ingredient: Sojageschnätzeltes (Hähnchenart) (vegan& glutenfrei)
 instructionsDE: >-
-  Das Essen könnt Ihr natürlich mit jedem Gemüse Eurer Wahl machen. Wir haben
-  uns dieses Mail für die oben genannte Kombination entschieden. 
+  ![](/img/dan-gold-4_jhdo54byg-unsplash.jpg)
+
+
+  Das Essen könnt Ihr natürlich mit jedem Gemüse Eurer Wahl machen. Wir haben uns dieses Mail für die oben genannte Kombination entschieden. 
 
 
   1. Wasser für den Reis aufstellen
@@ -81,6 +88,9 @@ instructionsDE: >-
   5. Danach die Mungobohnensprossen gut unter laufendem Wasser abwaschen und ebenfalls in die Pfanne geben. 
 
   6. Als letztes die Kokosnussmilch dazugeben und alles ca. 10min köcheln lassen, mit Gewürzen eurer Wahl abschmecken.
+
+
+  ![](/img/img_8165.jpg)
 tags:
   - coconut milk
   - rice
