@@ -1,12 +1,17 @@
 ---
 templateKey: lifestyle-post
-titleEN: Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
-  Gesundheit und die Tiere achten, was kann ich machen?
-titleDE: Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
-  Gesundheit und die Tiere achten, was kann ich machen?
+titleEN: "Die ersten Schritte in eine bewusstere Ernährung "
+titleDE: "Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
+  Gesundheit und die Tiere achten, was kann ich machen? "
 date: 2020-05-01T20:45:29.131Z
-descriptionEN: In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand
-  schon etwas Gutes tun könnt
+descriptionEN: >-
+  Meine Ernährung ist mir wichtig, ich möchte mich selbst nicht einschränken,
+  aber auch nicht alles hinnehmen was in unserer wirtschaft geschieht. Hier
+  findet Ihr Tipps, wie ihr euch nicht all zu sehr einschränkt aber dennoch das
+  Wohl der Tiere schützen könnt.
+
+
+  Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine Gesundheit und die Tiere achten, was kann ich machen? 
 descriptionDE: In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand
   schon etwas Gutes tun könnt
 featuredpost: true
