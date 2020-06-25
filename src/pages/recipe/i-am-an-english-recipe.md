@@ -49,7 +49,7 @@ instructionsEN: >-
   6. Finally, add the coconut milk and let everything simmer for about 10 mnutes, season with spices of your choice.
 
 
-  ![](/img/img_8165.jpg)
+  ![](/img/album-„insta_essen“-anzeigen.png)
 introDE: Kokosnussmilch ist eine super alternative zu Tomatensauce oder
   Sojasahne. Dies ist eines unserer Lieblingsessen. Es ist schnell zubereitet,
   abwechslungsreich und nicht teuer.
@@ -90,7 +90,7 @@ instructionsDE: >-
   6. Als letztes die Kokosnussmilch dazugeben und alles ca. 10min köcheln lassen, mit Gewürzen eurer Wahl abschmecken.
 
 
-  ![](/img/img_8165.jpg)
+  ![](/img/album-„insta_essen“-anzeigen.png)
 tags:
   - coconut milk
   - rice
