@@ -1,8 +1,7 @@
 ---
 templateKey: lifestyle-post
 titleEN: "Die ersten Schritte in eine bewusstere Ernährung "
-titleDE: "Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine
-  Gesundheit und die Tiere achten, was kann ich machen? "
+titleDE: "Die ersten Schritte in eine bewusstere Ernährung "
 date: 2020-05-01T20:45:29.131Z
 descriptionEN: >-
   Meine Ernährung ist mir wichtig, ich möchte mich selbst nicht einschränken,
@@ -12,8 +11,12 @@ descriptionEN: >-
 
 
   Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine Gesundheit und die Tiere achten, was kann ich machen? 
-descriptionDE: In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand
-  schon etwas Gutes tun könnt
+descriptionDE: >-
+  In diesem Artikel geben wir Tipps, wie ihr mit wenig Aufwand schon etwas Gutes
+  tun könnt
+
+
+  Ich will meine Ernährung nicht umstellen, aber dennoch mehr auf meine Gesundheit und die Tiere achten, was kann ich machen? 
 featuredpost: true
 featuredimage: /img/30daysreplay-pr-marketing-ix6kysoeim4-unsplash.jpg
 bodyEN: >-
