@@ -7,7 +7,7 @@ descriptionEN: Mango curry is a very fruity and refreshing meal. It is great for
   hot summer days.
 descriptionDE: Mango Curry ist ein sehr fruchtiges und erfrischendes Essen. Es
   eignet sich super für heiße Sommertage.
-featuredimage: /img/chemex.jpg
+featuredimage: /img/natural-chef-carolyn-nicholas-ojposw2cpno-unsplash.jpg
 introEN: Mango curry is a very fruity and refreshing meal. It is great for hot
   summer days.
 ingredientlistEN:
@@ -26,6 +26,14 @@ ingredientlistEN:
   - amount: 400ml
     ingredient: "coconut milk "
 instructionsEN: >-
+  ![](/img/charles-deluvio-f2rice7hvoy-unsplash.jpg)
+
+
+
+
+  Hello
+
+
   1. Set up water for the rice to boil.
 
   2. Meanwhile cut the remaining ingredients into cubes. If you use canned ingredients, rinse them well under running water.
@@ -42,9 +50,12 @@ instructionsEN: >-
 
   8. The mango can now also be added to the pan (do not stir) and the whole thing has to simmer for another 5 min.
 
-  9.  Now stir once and let simmer for 2 min.
+  9. Now stir once and let simmer for 2 min.
 
   10. Then the mango curry can be served with the rice.
+
+
+  ![](/img/img_8165.jpg)
 introDE: Mango Curry ist ein sehr fruchtiges und erfrischendes Essen. Es eignet
   sich super für heiße Sommertage.
 ingredientlistDE:
@@ -63,6 +74,9 @@ ingredientlistDE:
   - amount: 400ml
     ingredient: "Kokosnussmilch "
 instructionsDE: >-
+  ![](/img/charles-deluvio-f2rice7hvoy-unsplash.jpg)
+
+
   1. Wasser für den Reis zum kochen aufstellen.
 
   2. Währenddessen die übrigen Zutaten in Würfel schneiden. Solltet Ihr Zutaten aus der Dose verwenden diese gut unter den Wasser abspülen.
@@ -82,6 +96,9 @@ instructionsDE: >-
   9. Nun einmal umrühren und weiter 2 min köchle lassen.
 
   10. Dann Kann das Mango-Curry mit dem Reis serviert werden.
+
+
+  ![](/img/img_8165.jpg)
 tags:
   - rice
   - mango
