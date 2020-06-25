@@ -10,7 +10,7 @@ descriptionDE: >-
   Nudeln mit Kürbis ist ein sehr simples, aber sehr leckeres Essen.
 
   Das Essen ist super schnell zubereitet und es werden nur wenige Zutaten benötigt.
-featuredimage: /img/chemex.jpg
+featuredimage: /img/jonathan-pielmayer-0xv-ewjw2ny-unsplash.jpg
 introEN: |-
   Noodles with pumpkin is a very simple but very tasty meal. \
   The meal is prepared super quickly and only a few ingredients are required.
@@ -20,6 +20,9 @@ ingredientlistEN:
   - amount: "1 "
     ingredient: pumpkin
 instructionsEN: >-
+  ![](/img/viviana-rishe-q70dt-fiz4s-unsplash.jpg)
+
+
   1. Boil some water for the noodles.
 
   2. Meanwhile cut the pumpkin into fine pieces.
@@ -33,6 +36,9 @@ instructionsEN: >-
   6. After about 10 min, add the noodles to the pumpkin in the pan and mix well. Cover the pan with a lid and continue to simmer a few minutes.
 
   7. Then it`s ready to serve.
+
+
+  ![](/img/img_8151.jpg)
 introDE: >-
   Nudeln mit Kürbis ist ein sehr simples, aber sehr leckeres Essen. \
 
@@ -43,6 +49,9 @@ ingredientlistDE:
   - amount: "1  "
     ingredient: Kürbis
 instructionsDE: >-
+  ![](/img/viviana-rishe-q70dt-fiz4s-unsplash.jpg)
+
+
   1. Kochen Sie etwas Wasser für die Nudeln.
 
   2. Währenddessen den Kürbis in feine Stücke schneiden.
@@ -56,6 +65,9 @@ instructionsDE: >-
   6. Nach ca. 10 min die Nudeln zu dem Kürbis in die Pfanne geben und gut vermischen. Die Pfanne mit einem Deckel abdecken und ein paar Minuten weiter köcheln lassen.
 
   7. Dann ist das Essen servier fertig.
+
+
+  ![](/img/img_8151.jpg)
 tags:
   - noodles
   - pan
