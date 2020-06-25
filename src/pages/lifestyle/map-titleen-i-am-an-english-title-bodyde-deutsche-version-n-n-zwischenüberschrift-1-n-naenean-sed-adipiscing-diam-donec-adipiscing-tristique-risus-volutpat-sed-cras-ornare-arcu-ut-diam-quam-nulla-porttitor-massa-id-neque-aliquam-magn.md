@@ -1,7 +1,7 @@
 ---
 templateKey: lifestyle-post
-titleEN: I am an English title 3
-titleDE: Ich bin eine deutsche Überschrift 3
+titleEN: Vegane Ernährung Weg in die Armut?
+titleDE: Vegane Ernährung Weg in die Armut?
 date: 2020-05-01T20:17:47.816Z
 descriptionEN: This is an English short description for this article.
 descriptionDE: Dies ist eine deutsche Kurzbeschreibung des Artikels.
