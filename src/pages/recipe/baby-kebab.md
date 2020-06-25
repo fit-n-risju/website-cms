@@ -9,7 +9,7 @@ descriptionEN: The baby kebab is a healthy alternative to a normal kebab, here
 descriptionDE: Der Baby-Döner ist eine gesunde alternative zu einem normalen
   Döner, hier könnt ihr entscheiden, was in euren Döner soll und das ganze auch
   noch ohne ungesunde Saucen.
-featuredimage: /img/chemex.jpg
+featuredimage: /img/2020-06-25-17_13_43-window.png
 introEN: The baby kebab is a healthy alternative to a normal kebab, here you can
   decide what should be in your kebab and the whole thing without unhealthy
   sauces.
@@ -29,6 +29,9 @@ ingredientlistEN:
   - amount: 500ml
     ingredient: "passed tomatoes "
 instructionsEN: >-
+  ![](/img/dan-gold-4_jhdo54byg-unsplash.jpg)
+
+
   1. Lightly fry the soy sliced in a pam.
 
   2. If you use ingerdients from the can, wash them well under running water and let them drain.
@@ -44,6 +47,8 @@ instructionsEN: >-
   7. Then fill the pide with te mass one by one
 
   8. We recommend a mixed salad.
+
+     ![Like Kebab](/img/2020-06-25-17_13_43-window.png)
 introDE: Der Baby-Döner ist eine gesunde alternative zu einem normalen Döner,
   hier könnt ihr entscheiden, was in euren Döner soll und das ganze auch noch
   ohne ungesunde Saucen.
