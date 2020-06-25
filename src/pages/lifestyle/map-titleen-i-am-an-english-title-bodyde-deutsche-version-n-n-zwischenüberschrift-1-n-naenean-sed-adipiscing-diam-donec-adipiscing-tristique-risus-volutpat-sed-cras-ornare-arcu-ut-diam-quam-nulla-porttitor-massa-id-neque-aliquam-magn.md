@@ -6,7 +6,7 @@ date: 2020-05-01T20:17:47.816Z
 descriptionEN: Wie kann ich kosten sparen und dennoch vegan und ausgewogen leben?
 descriptionDE: Wie kann ich kosten sparen und dennoch vegan und ausgewogen leben?
 featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredimage: /img/micheile-henderson-lz_4npfkcv8-unsplash.jpg
 bodyEN: >-
   Man hört oft, dass eine vegane Ernährung sehr teuer ist und man sich das kaum
   leisten kann. Wenn man Wert auf die Qualität des Fleisches legt, dass später
