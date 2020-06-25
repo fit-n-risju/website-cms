@@ -38,7 +38,7 @@ instructionsEN: >-
   7. Then it`s ready to serve.
 
 
-  ![](/img/img_8151.jpg)
+  ![](/img/2020-06-25-17_59_29-window.png)
 introDE: >-
   Nudeln mit Kürbis ist ein sehr simples, aber sehr leckeres Essen. \
 
@@ -67,7 +67,7 @@ instructionsDE: >-
   7. Dann ist das Essen servier fertig.
 
 
-  ![](/img/img_8151.jpg)
+  ![](/img/2020-06-25-17_59_29-window.png)
 tags:
   - noodles
   - pan
