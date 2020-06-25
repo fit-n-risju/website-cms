@@ -6,7 +6,7 @@ date: 2020-05-05T14:57:20.016Z
 descriptionEN: " A very simple but healthy meal is our homemade mexican rice with vegetables."
 descriptionDE: "Ein sehr simples aber dennoch gesundes Essen ist unser
   selbstgemachter mexikanischer Reis mit Gemüse. "
-featuredimage: /img/chemex.jpg
+featuredimage: /img/jay-wennington-us1mljyq-ik-unsplash.jpg
 introEN: " A very simple but healthy meal is our homemade mexican rice with vegetables."
 ingredientlistEN:
   - amount: 350g
@@ -28,10 +28,13 @@ ingredientlistEN:
   - amount: some
     ingredient: mixed salad
 instructionsEN: >-
+  ![](/img/matthew-lakeland-b-aymzeowjq-unsplash.jpg)
+
+
   At this meal you can of course add or replace other vegetables of your choice.
 
 
-  1.  Set up water für the rice
+  1. Set up water für the rice
 
   2. If you are using some corn out of a can, wash the corn and cut the remaining vegetables into fine cubes and prepare the salad.
 
@@ -48,6 +51,11 @@ instructionsEN: >-
   8. Then let everything fry together in the pan fpr about 5 min, for a special taste you can add a little soy sauce, let it fry for another 5 min.
 
   9. Arrange on a plate with the mixed salad and enjoy
+
+
+
+
+  ![](/img/louis-hansel-shotsoflouis-cvlz6hbiemi-unsplash.jpg)
 introDE: Ein sehr simples aber dennoch gesundes Essen ist unser selbstgemachter
   mexikanischer Reis mit Gemüse.
 ingredientlistDE:
@@ -70,8 +78,13 @@ ingredientlistDE:
   - amount: "Zutaten für einen gemischten "
     ingredient: Salat
 instructionsDE: >-
-  Ihr könnt natürlich noch weiteres Gemüse eurer Wahl da zunehmen oder auch
-  ersetzen.
+  ![](/img/matthew-lakeland-b-aymzeowjq-unsplash.jpg)
+
+
+  Hallo
+
+
+  Ihr könnt natürlich noch weiteres Gemüse eurer Wahl da zunehmen oder auch ersetzen.
 
 
   1. Wasser aufstellen für den Reis.
@@ -91,6 +104,9 @@ instructionsDE: >-
   8. Dann alles zusammen ca. 5 min in der Pfanne braten lassen, anschließend kann etwas Sojasauce da zugegeben werden, noch etwas 5 min weiter braten lassen. 
 
   9. Auf einem Teller mit dem gemischten Salat anrichten und genießen.
+
+
+  ![](/img/louis-hansel-shotsoflouis-cvlz6hbiemi-unsplash.jpg)
 tags:
   - rice
   - vegetables
