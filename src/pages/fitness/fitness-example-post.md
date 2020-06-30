@@ -12,30 +12,79 @@ descriptionDE: "Cardio-Training leicht gemacht. Hier erfahrt Ihr kurz und knapp
 featuredpost: true
 featuredimage: /img/braden-collum-9hi8ujmsdza-unsplash.jpg
 bodyEN: >-
-  ### Subhead 1
+  Wenn man ganz frisch mit dem Cardio-/Ausdauertraining beginnt, dann ist es
+  wichtig sich nicht zu übernehmen, achtet darauf, dass ihr euch nicht
+  übernehmt. Wenn ihr zu schnell zu viel macht, seid ihr gefährdet, dass ihr
+  euch verletzt oder den Spaß am Ausdauertraining verliert.\
+
+  Wenn ihr das erste Mal lauft und denk oh nein, ich kann nicht mehr ich muss noch so lange laufen, denkt nicht an die ganze Zeit die ihr noch vor euch habt, denk immer von der einen zur nächsten Minute, dann läuft es sich leichter.
 
 
-  Metus aliquam eleifend mi in nulla. Sit amet volutpat consequat mauris. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Erat nam at lectus urna duis. Massa vitae tortor condimentum lacinia quis vel. Tristique senectus et netus et malesuada fames ac turpis egestas. Ultrices sagittis orci a scelerisque purus semper eget duis at. Ac felis donec et odio pellentesque diam volutpat commodo. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Odio aenean sed adipiscing diam donec adipiscing tristique risus.
+  Es gibt verschiedene Möglichkeiten ein Ausdauertraining, oder Cardio-Training durch zu führen.\
+
+  Man sollte bei seinem Training immer berücksichtigen, welches Ziel man erreichen möchte, was aber eigentlich selbstverständlich ist.
 
 
-  ### Subhead 2
+  ### Ausdauertraining neben dem Krafttraining
 
 
-  Pulvinar elementum integer enim neque volutpat ac. Fermentum leo vel orci porta non pulvinar neque. Ante metus dictum at tempor. Dignissim sodales ut eu sem integer vitae. Senectus et netus et malesuada fames. Cursus turpis massa tincidunt dui. Interdum varius sit amet mattis vulputate enim. Tincidunt arcu non sodales neque sodales. Risus nec feugiat in fermentum posuere urna nec tincidunt. Dignissim suspendisse in est ante in nibh mauris. Sed sed risus pretium quam. Mattis rhoncus urna neque viverra justo nec ultrices. Tincidunt id aliquet risus feugiat. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Accumsan tortor posuere ac ut consequat semper viverra nam. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Purus gravida quis blandit turpis cursus. Purus viverra accumsan in nisl nisi scelerisque. Euismod elementum nisi quis eleifend.
+  Wenn im Sportbereich dein Hauptfokus auf dem Krafttraining/ Bodybuilding liegt, ist das Cardio-Training essenziell neben dem Kraftsport. Der Kraftsport bedeutet für den Körper ebenfalls eine hohe Belastung und ist auch eine Art des Ausdauersports. Dennoch liegt hier eine andere Belastung für auf den Körper vor, als beim Laufen. Das Laufen, Schwimmen oder Radfahren stärkt die Herz-Kreislauffunktion, was bei Kraftsportlern manchmal etwas vernachlässigt wird und zu Komplikationen führen kann, daher sollte die Herz-Kreislauffunktion gestärkt und trainiert werden. \
+
+  Wichtig ist, wann das Training ausgeübt werden soll, siehe hierzu **"wann ist das Training am besten?"**
+
+
+  Wenn man zum Beispiel ***Fett abbauen*** möchte, hilft es nichts, wenn man einfach eine Stunde auf dem Laufband oder in der Natur unterwegs ist, natürlich verbrennt man Kalorien, was auf jeden Fall sehr gut ist. Aber bei dem Fettabbau ist es wichtig, dass der Puls nicht zu hoch steigt, daher ist es bei Fettabbau wichtig drauf zu achten in welchem Bereich sich der Puls bewegt, natürlich darf es auch nicht zu niedrig sein. Ich bin 1,56 klein und wiege aktuell knapp 44 kg, wenn ich ein Fettabbau-Training mache, muss sich mein Plus zwischen mindesten 122 und maximal bei 134 bewegen. Hierfür gibt es unter dem folgenden Link einen super Rechner: <https://www.blitzrechner.de/puls/>
+
+
+  > ## Die Divise für ein effektives Fett-burn -Training ein langes und relativ langsames Training.
+
+
+  Wenn der Puls zu hoch ist, hat der Körper zu viel damit zu tun die Organe mit genug Sauerstoff zu versorgen und gar keine Zeit Fett abzubauen. Das gleiche ist in der Nachbrennphase, der Körper ist so damit beschäftigt, sich wieder auf einer normale Temperatur zu bringen, den Kreislauf und den Plus runter zu fahren, das er gar keine Zeit hat ab den Fettabbau nur zu denken.
+
+
+  Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
+
+
+
+
+  ![](/img/2020-06-30-17_11_30-abb.cardiodocx.docx-microsoft-word.png)
 bodyDE: >-
-  ## Deutsche Version
+  Wenn man ganz frisch mit dem Cardio-/Ausdauertraining beginnt, dann ist es
+  wichtig sich nicht zu übernehmen, achtet darauf, dass ihr euch nicht
+  übernehmt. Wenn ihr zu schnell zu viel macht, seid ihr gefährdet, dass ihr
+  euch verletzt oder den Spaß am Ausdauertraining verliert.\
+
+  Wenn ihr das erste Mal lauft und denk oh nein, ich kann nicht mehr ich muss noch so lange laufen, denkt nicht an die ganze Zeit die ihr noch vor euch habt, denk immer von der einen zur nächsten Minute, dann läuft es sich leichter.
 
 
-  ### Zwischenüberschrift 1
+  Es gibt verschiedene Möglichkeiten ein Ausdauertraining, oder Cardio-Training durch zu führen.\
+
+  Man sollte bei seinem Training immer berücksichtigen, welches Ziel man erreichen möchte, was aber eigentlich selbstverständlich ist.
 
 
-  Metus aliquam eleifend mi in nulla. Sit amet volutpat consequat mauris. Nunc aliquet bibendum enim facilisis gravida neque convallis a. Erat nam at lectus urna duis. Massa vitae tortor condimentum lacinia quis vel. Tristique senectus et netus et malesuada fames ac turpis egestas. Ultrices sagittis orci a scelerisque purus semper eget duis at. Ac felis donec et odio pellentesque diam volutpat commodo. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Odio aenean sed adipiscing diam donec adipiscing tristique risus.
+  ### Ausdauertraining neben dem Krafttraining
 
 
-  ### Zwischenüberschrift 2
+  Wenn im Sportbereich dein Hauptfokus auf dem Krafttraining/ Bodybuilding liegt, ist das Cardio-Training essenziell neben dem Kraftsport. Der Kraftsport bedeutet für den Körper ebenfalls eine hohe Belastung und ist auch eine Art des Ausdauersports. Dennoch liegt hier eine andere Belastung für auf den Körper vor, als beim Laufen. Das Laufen, Schwimmen oder Radfahren stärkt die Herz-Kreislauffunktion, was bei Kraftsportlern manchmal etwas vernachlässigt wird und zu Komplikationen führen kann, daher sollte die Herz-Kreislauffunktion gestärkt und trainiert werden. \
+
+  Wichtig ist, wann das Training ausgeübt werden soll, siehe hierzu **"wann ist das Training am besten?"**
 
 
-  Pulvinar elementum integer enim neque volutpat ac. Fermentum leo vel orci porta non pulvinar neque. Ante metus dictum at tempor. Dignissim sodales ut eu sem integer vitae. Senectus et netus et malesuada fames. Cursus turpis massa tincidunt dui. Interdum varius sit amet mattis vulputate enim. Tincidunt arcu non sodales neque sodales. Risus nec feugiat in fermentum posuere urna nec tincidunt. Dignissim suspendisse in est ante in nibh mauris. Sed sed risus pretium quam. Mattis rhoncus urna neque viverra justo nec ultrices. Tincidunt id aliquet risus feugiat. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Accumsan tortor posuere ac ut consequat semper viverra nam. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Purus gravida quis blandit turpis cursus. Purus viverra accumsan in nisl nisi scelerisque. Euismod elementum nisi quis eleifend.
+  Wenn man zum Beispiel ***Fett abbauen*** möchte, hilft es nichts, wenn man einfach eine Stunde auf dem Laufband oder in der Natur unterwegs ist, natürlich verbrennt man Kalorien, was auf jeden Fall sehr gut ist. Aber bei dem Fettabbau ist es wichtig, dass der Puls nicht zu hoch steigt, daher ist es bei Fettabbau wichtig drauf zu achten in welchem Bereich sich der Puls bewegt, natürlich darf es auch nicht zu niedrig sein. Ich bin 1,56 klein und wiege aktuell knapp 44 kg, wenn ich ein Fettabbau-Training mache, muss sich mein Plus zwischen mindesten 122 und maximal bei 134 bewegen. Hierfür gibt es unter dem folgenden Link einen super Rechner: <https://www.blitzrechner.de/puls/>
+
+
+  > ## Die Divise für ein effektives Fett-burn -Training ein langes und relativ langsames Training.
+
+
+  Wenn der Puls zu hoch ist, hat der Körper zu viel damit zu tun die Organe mit genug Sauerstoff zu versorgen und gar keine Zeit Fett abzubauen. Das gleiche ist in der Nachbrennphase, der Körper ist so damit beschäftigt, sich wieder auf einer normale Temperatur zu bringen, den Kreislauf und den Plus runter zu fahren, das er gar keine Zeit hat ab den Fettabbau nur zu denken.
+
+
+  Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
+
+
+
+
+  ![](/img/2020-06-30-17_11_30-abb.cardiodocx.docx-microsoft-word.png)
 tags:
   - Fitness 1
   - Fitness 2
