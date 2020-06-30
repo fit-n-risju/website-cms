@@ -9,7 +9,7 @@ descriptionEN: Pad Thai is one of our favorite meals. It is super healthy,
 descriptionDE: Pad Thai ist eines unserer Lieblingsessen. Es ist super gesund,
   abwechlungsreich und liegt nicht schwer im Magen. Eignet sich auch super als
   Gericht für heiße Sommertage.
-featuredimage: /img/chemex.jpg
+featuredimage: /img/markus-winkler-zcpfqe7htne-unsplash.jpg
 introEN: Pad Thai is one of our favorite meals. It is super healthy, varied and
   is not difficult in the stomach. Also great as a dish for hot summer days.
 ingredientlistEN:
