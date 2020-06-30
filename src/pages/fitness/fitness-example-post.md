@@ -1,14 +1,16 @@
 ---
 templateKey: fitness-post
-titleEN: Fitness example post
-titleDE: Fitness Beispiel-Post
+titleEN: "Cardio-Training "
+titleDE: Cardio-Training
 date: 2020-05-01T21:46:18.329Z
 descriptionEN: "Cardio-Training leicht gemacht. Hier erfahrt Ihr kurz und knapp
   auf was Ihr bei eurem Cardio-Training achten müsst, egal ob Anfänger oder
   schon etwas erfahrener. "
-descriptionDE: Dies ist eine deutsche Kurzbeschreibung eines Fitness-Artikels.
+descriptionDE: "Cardio-Training leicht gemacht. Hier erfahrt Ihr kurz und knapp
+  auf was Ihr bei eurem Cardio-Training achten müsst, egal ob Anfänger oder
+  schon etwas erfahrener. "
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/braden-collum-9hi8ujmsdza-unsplash.jpg
 bodyEN: >-
   ### Subhead 1
 
