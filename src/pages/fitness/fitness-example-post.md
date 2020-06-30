@@ -3,7 +3,9 @@ templateKey: fitness-post
 titleEN: Fitness example post
 titleDE: Fitness Beispiel-Post
 date: 2020-05-01T21:46:18.329Z
-descriptionEN: This is an English description of a fitness article.
+descriptionEN: "Cardio-Training leicht gemacht. Hier erfahrt Ihr kurz und knapp
+  auf was Ihr bei eurem Cardio-Training achten müsst, egal ob Anfänger oder
+  schon etwas erfahrener. "
 descriptionDE: Dies ist eine deutsche Kurzbeschreibung eines Fitness-Artikels.
 featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
