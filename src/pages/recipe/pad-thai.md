@@ -30,6 +30,9 @@ ingredientlistEN:
   - amount: "quarter "
     ingredient: of a lemon
 instructionsEN: >-
+  ![](/img/mor-shani-x9psbtsdmgu-unsplash.jpg)
+
+
   1. Set up water for the noodles to boil.
 
   2. Meanwhile braise the vegetables in a pan on a low setting.
@@ -45,6 +48,9 @@ instructionsEN: >-
   7. Now stir well and let simmer for 3 min.
 
   8. Than it´s ready to serve and enjoy.
+
+
+  ![](/img/vita-marija-murenaite-5q_edarv5zq-unsplash.jpg)
 introDE: Pad Thai ist eines unserer Lieblingsessen. Es ist super gesund,
   abwechlungsreich und liegt nicht schwer im Magen. Eignet sich auch super als
   Gericht für heiße Sommertage.
@@ -66,6 +72,9 @@ ingredientlistDE:
   - amount: "viertel "
     ingredient: Zitrone
 instructionsDE: >-
+  ![](/img/mor-shani-x9psbtsdmgu-unsplash.jpg)
+
+
   1. Wasser für die Nudeln zum kochen aufstellen.
 
   2. Währenddessen das Gemüse in einer Pfanne auf nieriger Stufe andünsten.
@@ -81,6 +90,9 @@ instructionsDE: >-
   7. Nun einmal gut umrühren und 3 min köchle lassen.
 
   8. Anschließend ist es servier fertig.
+
+
+  ![](/img/vita-marija-murenaite-5q_edarv5zq-unsplash.jpg)
 tags:
   - noodles
   - soy sauce
