@@ -9,7 +9,7 @@ descriptionEN: The vegetable lasagna is a great replacement for the "normal"
 descriptionDE: 'Die Gemüselasagne ist ein super Ersatz zu der "normalen"
   Lasagne. Mit einem kleinen Trick kann Lasagne auch noch kalorienarm sein,
   diesen werde ich Euch im Rezept verraten. '
-featuredimage: /img/chemex.jpg
+featuredimage: /img/eaters-collective-6rtm6a_avye-unsplash.jpg
 introEN: The vegetable lasagna is a great replacement for the "normal" lasagna.
   With a little trick, lasagna can also be low in calories, which I will tell
   you in the recipe.
@@ -39,6 +39,9 @@ instructionsEN: >-
   recommend 4 zucchini.
 
 
+  ![](/img/caroline-attwood-qljefvxpdxc-unsplash.jpg)
+
+
   1. If you are using canned products, wash them under running water and let them drain briefly.
 
   2. Meanwhile, peel the carrots, cut zhem into cubes and put them in a pan.
@@ -56,6 +59,9 @@ instructionsEN: >-
   8. Now everything has to be layered in a baking dish. The first layer consists of the cauce, cover that wit pasta plates or zucchini strips. Repeat this process until the sauce is used up. the last layer must consist of the sauce, on which the cheese is then distributed
 
   9. put the filled baking dish for approx. 30 min in the oven at top- and bottom heat, the last approx. 5 min recirculated air.
+
+
+  ![](/img/mor-shani-x9psbtsdmgu-unsplash.jpg)
 introDE: Die Gemüselasagne ist ein super Ersatz zu der "normalen" Lasagne. Mit
   einem kleinen Trick kann Lasagne auch noch kalorienarm sein, diesen werde ich
   Euch im Rezept verraten.
@@ -87,6 +93,9 @@ instructionsDE: >-
   diese Variante entscheidet, würde ich ca. 4 Zucchini empfehlen. 
 
 
+  ![](/img/caroline-attwood-qljefvxpdxc-unsplash.jpg)
+
+
   1. Wenn Ihr Produkte aus der Dose verwendet, diese unter fließendem Wasser abwaschen und kurz abtropfen lassen.
 
   2. Währenddessen die Karotten schälen, in Würfel schneiden und anschließend in eine Pfanne geben.
@@ -104,6 +113,9 @@ instructionsDE: >-
   8. Nun muss alles in eine Auflaufform geschichtet werden. Die erste Schicht besteht aus der Sauce, diese mit Pasta Platten oder Zucchini-Streifen bedecken. Diesen Vorgang wiederholen, bis die Sauce aufgebraucht ist. Die letzte Schicht muss aus der Sauce bestehen, auf diese wird dann der Käse verteilt. 
 
   9. Die befüllte Auflaufform für ca. 30 min in den Backofen bei Ober- und Unterhitze, die letzten ca. 5 min Umluft anschalten.
+
+
+  ![](/img/mor-shani-x9psbtsdmgu-unsplash.jpg)
 tags:
   - Lasagna
   - vegetable
