@@ -45,9 +45,21 @@ bodyEN: >-
   Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
 
 
-
-
   ![](/img/2020-06-30-17_11_30-abb.cardiodocx.docx-microsoft-word.png)
+
+
+  ## ***Intervall-Training***
+
+
+  Ein Intervall-Training eignet sich dann, wenn man dem Körper verschiedene reize setzten will, dass heiß, dass man in sein gewohntes Training wo man nur gerade ausläuft Geschwindigkeitsintervalle einbaut, dass bedeutet alle paar Minuten einen kurzen Sprint einbauen oder wenn man auf dem Laufband ist die Steigung ändern.\
+
+  Wenn man das Training zu „gewöhnlich“ durchführt und zu oft nur im gleichen Tempo läuft, dann gewöhnt sich der Körper an diese Belastung und man steigert seine Ausdauer nicht.
+
+
+  ## ***WANN IST DAS TRAINING AM BESTEN?***
+
+
+  Da das Cardio-Training eine hohe Belastung für den Körper ist und sehr viel Energie fordert, ist es wichtig, dass Cardio-Training nie vor dem Krafttraining zu machen. Die optimale Zeit für ein Cardio-Training ist nach dem Krafttraining, am selben Tag wie das Krafttraining, aber zu separaten Zeiten z.B. das Krafttraining vor der Arbeit und Cardio nach der Arbeit, oder an einem trainingsfreien Tag, sodass nur das Cardio-Training an diesem Tag absolviert wird.
 bodyDE: >-
   Wenn man ganz frisch mit dem Cardio-/Ausdauertraining beginnt, dann ist es
   wichtig sich nicht zu übernehmen, achtet darauf, dass ihr euch nicht
@@ -82,9 +94,21 @@ bodyDE: >-
   Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
 
 
-
-
   ![](/img/2020-06-30-17_11_30-abb.cardiodocx.docx-microsoft-word.png)
+
+
+  ## ***Intervall-Training***
+
+
+  Ein Intervall-Training eignet sich dann, wenn man dem Körper verschiedene reize setzten will, dass heiß, dass man in sein gewohntes Training wo man nur gerade ausläuft Geschwindigkeitsintervalle einbaut, dass bedeutet alle paar Minuten einen kurzen Sprint einbauen oder wenn man auf dem Laufband ist die Steigung ändern.\
+
+  Wenn man das Training zu „gewöhnlich“ durchführt und zu oft nur im gleichen Tempo läuft, dann gewöhnt sich der Körper an diese Belastung und man steigert seine Ausdauer nicht.
+
+
+  ## ***WANN IST DAS TRAINING AM BESTEN?***
+
+
+  Da das Cardio-Training eine hohe Belastung für den Körper ist und sehr viel Energie fordert, ist es wichtig, dass Cardio-Training nie vor dem Krafttraining zu machen. Die optimale Zeit für ein Cardio-Training ist nach dem Krafttraining, am selben Tag wie das Krafttraining, aber zu separaten Zeiten z.B. das Krafttraining vor der Arbeit und Cardio nach der Arbeit, oder an einem trainingsfreien Tag, sodass nur das Cardio-Training an diesem Tag absolviert wird.
 tags:
   - Fitness 1
   - Fitness 2
