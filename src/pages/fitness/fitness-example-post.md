@@ -13,9 +13,8 @@ featuredpost: true
 featuredimage: /img/braden-collum-9hi8ujmsdza-unsplash.jpg
 bodyEN: >-
   Wenn man ganz frisch mit dem Cardio-/Ausdauertraining beginnt, dann ist es
-  wichtig sich nicht zu übernehmen, achtet darauf, dass ihr euch nicht
-  übernehmt. Wenn ihr zu schnell zu viel macht, seid ihr gefährdet, dass ihr
-  euch verletzt oder den Spaß am Ausdauertraining verliert.\
+  wichtig sich nicht zu übernehmen. Wenn ihr zu schnell zu viel macht, seid ihr
+  gefährdet, dass ihr euch verletzt oder den Spaß am Ausdauertraining verliert.\
 
   Wenn ihr das erste Mal lauft und denk oh nein, ich kann nicht mehr ich muss noch so lange laufen, denkt nicht an die ganze Zeit die ihr noch vor euch habt, denk immer von der einen zur nächsten Minute, dann läuft es sich leichter.
 
@@ -28,7 +27,7 @@ bodyEN: >-
   ### Ausdauertraining neben dem Krafttraining
 
 
-  Wenn im Sportbereich dein Hauptfokus auf dem Krafttraining/ Bodybuilding liegt, ist das Cardio-Training essenziell neben dem Kraftsport. Der Kraftsport bedeutet für den Körper ebenfalls eine hohe Belastung und ist auch eine Art des Ausdauersports. Dennoch liegt hier eine andere Belastung für auf den Körper vor, als beim Laufen. Das Laufen, Schwimmen oder Radfahren stärkt die Herz-Kreislauffunktion, was bei Kraftsportlern manchmal etwas vernachlässigt wird und zu Komplikationen führen kann, daher sollte die Herz-Kreislauffunktion gestärkt und trainiert werden. \
+  Wenn beim Sport dein Hauptfokus auf dem Krafttraining/ Bodybuilding liegt, ist das Cardio-Training essenziell neben dem Kraftsport. Der Kraftsport bedeutet für den Körper ebenfalls eine hohe Belastung und ist auch eine Art des Ausdauersports. Dennoch liegt hier eine andere Belastung für auf den Körper vor, als beim Laufen. Das Laufen, Schwimmen oder Radfahren stärkt die Herz-Kreislauffunktion, was bei Kraftsportlern manchmal etwas vernachlässigt wird und zu Komplikationen führen kann, daher sollte die Herz-Kreislauffunktion gestärkt und trainiert werden. \
 
   Wichtig ist, wann das Training ausgeübt werden soll, siehe hierzu **"wann ist das Training am besten?"**
 
@@ -36,13 +35,13 @@ bodyEN: >-
   Wenn man zum Beispiel ***Fett abbauen*** möchte, hilft es nichts, wenn man einfach eine Stunde auf dem Laufband oder in der Natur unterwegs ist, natürlich verbrennt man Kalorien, was auf jeden Fall sehr gut ist. Aber bei dem Fettabbau ist es wichtig, dass der Puls nicht zu hoch steigt, daher ist es bei Fettabbau wichtig drauf zu achten in welchem Bereich sich der Puls bewegt, natürlich darf es auch nicht zu niedrig sein. Ich bin 1,56 klein und wiege aktuell knapp 44 kg, wenn ich ein Fettabbau-Training mache, muss sich mein Plus zwischen mindesten 122 und maximal bei 134 bewegen. Hierfür gibt es unter dem folgenden Link einen super Rechner: <https://www.blitzrechner.de/puls/>
 
 
-  > ## Die Divise für ein effektives Fett-burn -Training ein langes und relativ langsames Training.
+  > ## Die Divise für ein effektives Fett-burn -Training ist, ein langes und relativ langsames Training.
 
 
-  Wenn der Puls zu hoch ist, hat der Körper zu viel damit zu tun die Organe mit genug Sauerstoff zu versorgen und gar keine Zeit Fett abzubauen. Das gleiche ist in der Nachbrennphase, der Körper ist so damit beschäftigt, sich wieder auf einer normale Temperatur zu bringen, den Kreislauf und den Plus runter zu fahren, das er gar keine Zeit hat ab den Fettabbau nur zu denken.
+  Wenn der Puls zu hoch ist, hat der Körper zu viel damit zu tun die Organe mit genug Sauerstoff zu versorgen und gar keine Zeit Fett abzubauen. Das Gleiche ist in der Nachbrennphase, der Körper ist so damit beschäftigt, sich wieder auf einer normale Temperatur zu bringen, den Kreislauf und den Plus runter zu fahren, das er gar keine Zeit hat an den Fettabbau nur zu denken.
 
 
-  Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
+  Dazu bildet sich bei einem sehr anspruchsvollen Ausdauertraining im Körper Milchsäure, um die Muskeln zu versorgen und zu schützen. Die Milchsäure blockiert den Fettabbau, da der Körper als aller erstes die Säure im Körper wieder verarbeiten muss, damit er nicht übersäuert.
 
 
   ![](/img/2020-06-30-17_11_30-abb.cardiodocx.docx-microsoft-word.png)
@@ -51,7 +50,7 @@ bodyEN: >-
   ## ***Intervall-Training***
 
 
-  Ein Intervall-Training eignet sich dann, wenn man dem Körper verschiedene reize setzten will, dass heiß, dass man in sein gewohntes Training wo man nur gerade ausläuft Geschwindigkeitsintervalle einbaut, dass bedeutet alle paar Minuten einen kurzen Sprint einbauen oder wenn man auf dem Laufband ist die Steigung ändern.\
+  Ein Intervall-Training eignet sich dann, wenn man dem Körper verschiedene reize setzten will, dass heiß, dass man in sein gewohntes Training, wo man nur gerade ausläuft Geschwindigkeitsintervalle einbaut, dass bedeutet alle paar Minuten einen kurzen Sprint einzubauen oder wenn man auf dem Laufband ist die Steigung ändern.\
 
   Wenn man das Training zu „gewöhnlich“ durchführt und zu oft nur im gleichen Tempo läuft, dann gewöhnt sich der Körper an diese Belastung und man steigert seine Ausdauer nicht.
 
