@@ -7,7 +7,7 @@ descriptionEN: Mango curry is a very fruity and refreshing meal. It is great for
   hot summer days.
 descriptionDE: Mango Curry ist ein sehr fruchtiges und erfrischendes Essen. Es
   eignet sich super für heiße Sommertage.
-featuredimage: /img/natural-chef-carolyn-nicholas-ojposw2cpno-unsplash.jpg
+featuredimage: /img/2020-07-04-19_21_38-window.png
 introEN: Mango curry is a very fruity and refreshing meal. It is great for hot
   summer days.
 ingredientlistEN:
