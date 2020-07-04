@@ -3,9 +3,8 @@ templateKey: recipe-post
 titleEN: " Vegan meatloaf with carrots from the oven"
 titleDE: "Veganer Hackbraten mit Karotten aus dem Ofen "
 date: 2020-05-05T15:45:20.848Z
-descriptionEN: "Ein veganer Hackbraten ist super gesund und auch nicht
-  aufwendig. Durch die Karotten aus dem Ofen und dem gemischten Salat wird das
-  Essen aufgefrischt. "
+descriptionEN: A vegan meatloaf is super healthy and also not expensive. The
+  food is refreshed by the carrots from the oven and the mixed salad.
 descriptionDE: "Ein veganer Hackbraten ist super gesund und auch nicht
   aufwendig. Durch die Karotten aus dem Ofen und dem gemischten Salat wird das
   Essen aufgefrischt. "
