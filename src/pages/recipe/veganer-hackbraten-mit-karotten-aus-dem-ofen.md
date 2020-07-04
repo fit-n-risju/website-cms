@@ -1,6 +1,6 @@
 ---
 templateKey: recipe-post
-titleEN: "Veganer Hackbraten mit Karotten aus dem Ofen "
+titleEN: " Vegan meatloaf with carrots from the oven"
 titleDE: "Veganer Hackbraten mit Karotten aus dem Ofen "
 date: 2020-05-05T15:45:20.848Z
 descriptionEN: "Ein veganer Hackbraten ist super gesund und auch nicht
