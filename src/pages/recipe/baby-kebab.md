@@ -1,7 +1,7 @@
 ---
 templateKey: recipe-post
-titleEN: Baby kebab
-titleDE: Baby-Döner
+titleEN: "Selfmade Baby kebab "
+titleDE: "Selbstgemachter Baby-Döner "
 date: 2020-05-05T15:45:20.848Z
 descriptionEN: The baby kebab is a healthy alternative to a normal kebab, here
   you can decide what should be in your kebab and the whole thing without
